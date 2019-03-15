@@ -1,0 +1,23 @@
+2018-09-19 11:04:59,101 - __main__ - INFO - start date:2018-08-18
+2018-09-19 11:04:59,101 - __main__ - INFO - recent date: 2018-09-17 
+2018-09-19 11:04:59,401 - __main__ - INFO - the size of report:17548
+2018-09-19 11:05:00,639 - __main__ - INFO - update interests
+2018-09-19 11:05:01,328 - __main__ - INFO - the size of updating interest:349
+2018-09-19 11:05:01,330 - __main__ - INFO - Fail, Fail, Fail. it is a anomaly problem! 'pid'
+2018-09-19 11:05:51,938 - __main__ - INFO - start date:2018-08-18
+2018-09-19 11:05:51,938 - __main__ - INFO - recent date: 2018-09-17 
+2018-09-19 11:05:52,241 - __main__ - INFO - the size of report:17548
+2018-09-19 11:05:53,379 - __main__ - INFO - update interests
+2018-09-19 11:05:53,991 - __main__ - INFO - the size of updating interest:349
+2018-09-19 11:05:53,993 - __main__ - INFO - Fail, Fail, Fail. it is a anomaly problem! 'pid'
+2018-09-19 11:10:21,768 - __main__ - INFO - start date:2018-08-18
+2018-09-19 11:10:21,768 - __main__ - INFO - recent date: 2018-09-17 
+2018-09-19 11:10:22,023 - __main__ - INFO - the size of report:17548
+2018-09-19 11:10:22,998 - __main__ - INFO - update interests
+2018-09-19 11:10:24,166 - __main__ - INFO - the size of updating interest:349
+2018-09-19 11:10:24,167 - __main__ - INFO - Fail, Fail, Fail. it is a anomaly problem! 'pid'
+2018-09-19 11:10:51,562 - __main__ - INFO - start date:2018-08-18
+2018-09-19 11:10:51,562 - __main__ - INFO - recent date: 2018-09-17 
+2018-09-19 11:10:51,869 - __main__ - INFO - the size of report:17548
+2018-09-19 11:10:55,788 - __main__ - INFO - update interests
+2018-09-19 11:10:57,304 - __main__ - INFO - the size of updating interest:349

@@ -1,0 +1,1602 @@
+2018-09-27 20:37:10,870 - __main__ - INFO - delt_name:cet1_qa_s3_android_tz_r04, create_amount:10
+2018-09-27 20:37:11,130 - __main__ - INFO - the platform: Android, the country: QA
+2018-09-27 20:37:33,592 - __main__ - INFO - create amount is 10
+2018-09-27 20:37:33,593 - __main__ - INFO - delt_name:bbt4_om_s3_android_tz_r04, create_amount:10
+2018-09-27 20:37:36,782 - __main__ - INFO - the platform: Android, the country: OM
+2018-09-27 20:37:53,595 - __main__ - INFO - create amount is 10
+2018-09-27 20:37:53,597 - __main__ - INFO - delt_name:bbt2_ru_s3_android_tz_r04, create_amount:10
+2018-09-27 20:37:55,488 - __main__ - INFO - the platform: Android, the country: RU
+2018-09-27 20:38:11,763 - __main__ - INFO - create amount is 10
+2018-09-27 20:38:11,765 - __main__ - INFO - delt_name:cet1_jp_s2_ios_tz_a00, create_amount:10
+2018-09-27 20:38:13,697 - __main__ - INFO - the platform: iOS, the country: JP
+2018-09-27 20:38:32,568 - __main__ - INFO - create amount is 10
+2018-09-27 20:38:32,570 - __main__ - INFO - delt_name:cet1_qa_s3_ios_tz_r04, create_amount:10
+2018-09-27 20:38:34,776 - __main__ - INFO - the platform: iOS, the country: QA
+2018-09-27 20:38:52,208 - __main__ - INFO - create amount is 10
+2018-09-27 20:38:52,209 - __main__ - INFO - delt_name:bbt3_bh_s4_android_tz_r04, create_amount:10
+2018-09-27 20:38:54,045 - __main__ - INFO - the platform: Android, the country: BH
+2018-09-27 20:39:10,042 - __main__ - INFO - create amount is 10
+2018-09-27 20:39:10,044 - __main__ - INFO - delt_name:bbt3_jp_s2_android_tz_a00, create_amount:10
+2018-09-27 20:39:12,460 - __main__ - INFO - the platform: Android, the country: JP
+2018-09-27 20:39:30,797 - __main__ - INFO - create amount is 10
+2018-09-27 20:39:30,798 - __main__ - INFO - delt_name:bet3_qa_s3_ios_tz_r04, create_amount:10
+2018-09-27 20:39:32,843 - __main__ - INFO - the platform: iOS, the country: QA
+2018-09-27 20:39:49,085 - __main__ - INFO - create amount is 10
+2018-09-27 20:39:49,088 - __main__ - INFO - delt_name:bbt4_us_s2_ios_tz_r12, create_amount:10
+2018-09-27 20:39:51,285 - __main__ - INFO - the platform: iOS, the country: US
+2018-09-27 20:40:18,926 - __main__ - INFO - create amount is 10
+2018-09-27 20:40:18,932 - __main__ - INFO - delt_name:bet3_au_s2_android_tz_a02, create_amount:10
+2018-09-27 20:40:20,933 - __main__ - INFO - the platform: Android, the country: AU
+2018-09-27 20:40:45,838 - __main__ - INFO - create amount is 10
+2018-09-27 20:40:45,841 - __main__ - INFO - delt_name:bbt3_jp_s2_ios_tz_a00, create_amount:10
+2018-09-27 20:40:48,321 - __main__ - INFO - the platform: iOS, the country: JP
+2018-09-27 20:41:08,242 - __main__ - INFO - create amount is 10
+2018-09-27 20:41:08,244 - __main__ - INFO - delt_name:bbt4_sa_s3_ios_tz_r04, create_amount:10
+2018-09-27 20:41:10,738 - __main__ - INFO - the platform: iOS, the country: SA
+2018-09-27 20:41:29,404 - __main__ - INFO - create amount is 10
+2018-09-27 20:41:29,405 - __main__ - INFO - delt_name:cet1_tw_s4_ios_tz_a00, create_amount:10
+2018-09-27 20:41:33,465 - __main__ - INFO - the platform: iOS, the country: TW
+2018-09-27 20:41:55,870 - __main__ - INFO - create amount is 10
+2018-09-27 20:41:55,872 - __main__ - INFO - delt_name:bbt2_kw_s4_ios_tz_r04, create_amount:10
+2018-09-27 20:41:59,285 - __main__ - INFO - the platform: iOS, the country: KW
+2018-09-27 20:42:15,961 - __main__ - INFO - create amount is 10
+2018-09-27 20:42:15,962 - __main__ - INFO - delt_name:bbt4_no_s2_ios_tz_r06, create_amount:10
+2018-09-27 20:42:18,522 - __main__ - INFO - the platform: iOS, the country: NO
+2018-09-27 20:42:39,767 - __main__ - INFO - create amount is 10
+2018-09-27 20:42:39,769 - __main__ - INFO - delt_name:bbt4_gb_s1_android_tz_r06, create_amount:10
+2018-09-27 20:42:42,191 - __main__ - INFO - the platform: Android, the country: GB
+2018-09-27 20:43:08,333 - __main__ - INFO - create amount is 10
+2018-09-27 20:43:08,336 - __main__ - INFO - delt_name:cet1_ca_s1_android_tz_r12, create_amount:10
+2018-09-27 20:43:10,557 - __main__ - INFO - the platform: Android, the country: CA
+2018-09-27 20:43:28,606 - __main__ - INFO - create amount is 10
+2018-09-27 20:43:28,607 - __main__ - INFO - delt_name:bbt3_mo_s2_android_tz_a00, create_amount:10
+2018-09-27 20:43:31,141 - __main__ - INFO - the platform: Android, the country: MO
+2018-09-27 20:43:48,577 - __main__ - INFO - create amount is 10
+2018-09-27 20:43:48,581 - __main__ - INFO - delt_name:cet1_no_s2_ios_tz_r06, create_amount:10
+2018-09-27 20:43:50,790 - __main__ - INFO - the platform: iOS, the country: NO
+2018-09-27 20:44:09,163 - __main__ - INFO - create amount is 10
+2018-09-27 20:44:09,165 - __main__ - INFO - delt_name:bbt4_om_s3_ios_tz_r04, create_amount:10
+2018-09-27 20:44:11,572 - __main__ - INFO - the platform: iOS, the country: OM
+2018-09-27 20:44:28,019 - __main__ - INFO - create amount is 10
+2018-09-27 20:44:28,021 - __main__ - INFO - delt_name:bet3_om_s3_android_tz_r04, create_amount:10
+2018-09-27 20:44:30,224 - __main__ - INFO - the platform: Android, the country: OM
+2018-09-27 20:44:50,101 - __main__ - INFO - create amount is 10
+2018-09-27 20:44:50,103 - __main__ - INFO - delt_name:bbt4_mo_s2_android_tz_a00, create_amount:10
+2018-09-27 20:44:52,839 - __main__ - INFO - the platform: Android, the country: MO
+2018-09-27 20:45:39,432 - __main__ - INFO - delt_name:bbt3_tw_s4_ios_tz_a00, create_amount:1000
+2018-09-27 20:45:39,738 - __main__ - INFO - the platform: iOS, the country: TW
+2018-09-27 20:49:06,256 - __main__ - INFO - delt_name:bbt3_qa_s3_android_tz_r04, create_amount:1000
+2018-09-27 20:49:06,483 - __main__ - INFO - the platform: Android, the country: QA
+2018-09-27 20:49:37,513 - __main__ - INFO - delt_name:bbt2_bh_s4_android_tz_r04, create_amount:100
+2018-09-27 20:49:37,789 - __main__ - INFO - the platform: Android, the country: BH
+2018-09-27 20:49:41,829 - __main__ - INFO - delt_name:bet3_kr_s1_ios_tz_a00, create_amount:100
+2018-09-27 20:49:42,073 - __main__ - INFO - the platform: iOS, the country: KR
+2018-09-27 20:50:34,959 - __main__ - INFO - create amount is 100
+2018-09-27 20:50:34,962 - __main__ - INFO - delt_name:cet2_sg_s1_ios_tz_a00, create_amount:100
+2018-09-27 20:50:37,315 - __main__ - INFO - the platform: iOS, the country: SG
+2018-09-27 20:51:12,950 - __main__ - INFO - delt_name:bbt4_bh_s4_ios_tz_r04, create_amount:10
+2018-09-27 20:51:13,258 - __main__ - INFO - the platform: iOS, the country: BH
+2018-09-27 20:51:25,071 - __main__ - INFO - create amount is 10
+2018-09-27 20:51:25,072 - __main__ - INFO - delt_name:bbt4_fr_s1_android_tz_r06, create_amount:10
+2018-09-27 20:51:27,185 - __main__ - INFO - the platform: Android, the country: FR
+2018-09-27 20:51:29,885 - __main__ - INFO - create amount is 100
+2018-09-27 20:51:29,888 - __main__ - INFO - delt_name:cet2_kw_s4_ios_tz_r04, create_amount:100
+2018-09-27 20:51:31,988 - __main__ - INFO - the platform: iOS, the country: KW
+2018-09-27 20:51:39,547 - __main__ - INFO - create amount is 10
+2018-09-27 20:51:39,549 - __main__ - INFO - delt_name:bet3_mo_s2_android_tz_a00, create_amount:10
+2018-09-27 20:51:41,478 - __main__ - INFO - the platform: Android, the country: MO
+2018-09-27 20:51:50,547 - __main__ - INFO - create amount is 10
+2018-09-27 20:51:50,548 - __main__ - INFO - delt_name:cet2_sa_s3_android_tz_r04, create_amount:10
+2018-09-27 20:51:52,700 - __main__ - INFO - the platform: Android, the country: SA
+2018-09-27 20:52:01,168 - __main__ - INFO - create amount is 10
+2018-09-27 20:52:01,169 - __main__ - INFO - delt_name:bbt2_qa_s3_ios_tz_r04, create_amount:10
+2018-09-27 20:52:02,967 - __main__ - INFO - the platform: iOS, the country: QA
+2018-09-27 20:52:11,742 - __main__ - INFO - create amount is 10
+2018-09-27 20:52:11,744 - __main__ - INFO - delt_name:bbt2_ru_s3_ios_tz_r04, create_amount:10
+2018-09-27 20:52:13,413 - __main__ - INFO - the platform: iOS, the country: RU
+2018-09-27 20:52:20,674 - __main__ - INFO - create amount is 100
+2018-09-27 20:52:20,675 - __main__ - INFO - delt_name:bbt2_mo_s2_ios_tz_a00, create_amount:100
+2018-09-27 20:52:22,907 - __main__ - INFO - the platform: iOS, the country: MO
+2018-09-27 20:52:23,234 - __main__ - INFO - create amount is 10
+2018-09-27 20:52:23,235 - __main__ - INFO - delt_name:cet1_no_s2_ios_tz_r06, create_amount:10
+2018-09-27 20:52:25,445 - __main__ - INFO - the platform: iOS, the country: NO
+2018-09-27 20:52:44,316 - __main__ - INFO - create amount is 10
+2018-09-27 20:52:44,318 - __main__ - INFO - delt_name:bbt2_tw_s4_android_tz_a00, create_amount:10
+2018-09-27 20:52:46,562 - __main__ - INFO - the platform: Android, the country: TW
+2018-09-27 20:53:01,093 - __main__ - INFO - create amount is 10
+2018-09-27 20:53:01,094 - __main__ - INFO - delt_name:bbt3_tw_s4_ios_tz_a00, create_amount:10
+2018-09-27 20:53:03,147 - __main__ - INFO - the platform: iOS, the country: TW
+2018-09-27 20:53:12,355 - __main__ - INFO - create amount is 100
+2018-09-27 20:53:12,357 - __main__ - INFO - delt_name:bbt3_mo_s2_android_tz_a00, create_amount:100
+2018-09-27 20:53:14,497 - __main__ - INFO - the platform: Android, the country: MO
+2018-09-27 20:53:16,092 - __main__ - INFO - create amount is 10
+2018-09-27 20:53:16,094 - __main__ - INFO - delt_name:bbt3_sa_s3_android_tz_r04, create_amount:10
+2018-09-27 20:53:18,123 - __main__ - INFO - the platform: Android, the country: SA
+2018-09-27 20:53:27,456 - __main__ - INFO - create amount is 10
+2018-09-27 20:53:27,457 - __main__ - INFO - delt_name:bet3_fr_s1_ios_tz_r06, create_amount:10
+2018-09-27 20:53:30,386 - __main__ - INFO - the platform: iOS, the country: FR
+2018-09-27 20:53:43,926 - __main__ - INFO - create amount is 10
+2018-09-27 20:53:43,927 - __main__ - INFO - delt_name:bbt4_sa_s3_ios_tz_r04, create_amount:10
+2018-09-27 20:53:46,154 - __main__ - INFO - the platform: iOS, the country: SA
+2018-09-27 20:53:54,986 - __main__ - INFO - create amount is 10
+2018-09-27 20:53:54,988 - __main__ - INFO - delt_name:cet2_gb_s1_ios_tz_r06, create_amount:10
+2018-09-27 20:53:56,918 - __main__ - INFO - the platform: iOS, the country: GB
+2018-09-27 20:54:10,932 - __main__ - INFO - create amount is 10
+2018-09-27 20:54:10,934 - __main__ - INFO - delt_name:bbt2_fr_s1_android_tz_r06, create_amount:10
+2018-09-27 20:54:12,869 - __main__ - INFO - the platform: Android, the country: FR
+2018-09-27 20:54:17,833 - __main__ - INFO - delt_name:cet2_us_s2_ios_tz_r12, create_amount:10
+2018-09-27 20:54:18,104 - __main__ - INFO - the platform: iOS, the country: US
+2018-09-27 20:54:18,721 - __main__ - INFO - create amount is 100
+2018-09-27 20:54:18,722 - __main__ - INFO - delt_name:bbt2_kr_s1_ios_tz_a00, create_amount:100
+2018-09-27 20:54:20,801 - __main__ - INFO - the platform: iOS, the country: KR
+2018-09-27 20:54:39,537 - __main__ - INFO - create amount is 10
+2018-09-27 20:54:39,541 - __main__ - INFO - delt_name:bet3_gb_s1_android_tz_r06, create_amount:10
+2018-09-27 20:54:41,758 - __main__ - INFO - the platform: Android, the country: GB
+2018-09-27 20:54:56,925 - __main__ - INFO - create amount is 10
+2018-09-27 20:54:56,927 - __main__ - INFO - delt_name:bbt4_sg_s1_android_tz_a00, create_amount:10
+2018-09-27 20:54:59,080 - __main__ - INFO - the platform: Android, the country: SG
+2018-09-27 20:55:14,890 - __main__ - INFO - create amount is 10
+2018-09-27 20:55:14,891 - __main__ - INFO - delt_name:bet3_hk_s2_android_tz_a00, create_amount:10
+2018-09-27 20:55:17,314 - __main__ - INFO - the platform: Android, the country: HK
+2018-09-27 20:55:18,838 - __main__ - INFO - create amount is 100
+2018-09-27 20:55:18,840 - __main__ - INFO - delt_name:bbt2_ae_s3_android_tz_r04, create_amount:100
+2018-09-27 20:55:20,600 - __main__ - INFO - the platform: Android, the country: AE
+2018-09-27 20:55:24,767 - __main__ - INFO - create amount is 1000
+2018-09-27 20:55:24,768 - __main__ - INFO - delt_name:bbt2_us_s2_ios_tz_r12, create_amount:1000
+2018-09-27 20:55:26,149 - __main__ - INFO - delt_name:cet2_gb_s1_android_tz_r06, create_amount:10
+2018-09-27 20:55:26,356 - __main__ - INFO - the platform: Android, the country: GB
+2018-09-27 20:55:26,867 - __main__ - INFO - the platform: iOS, the country: US
+2018-09-27 20:55:40,569 - __main__ - INFO - create amount is 10
+2018-09-27 20:55:40,572 - __main__ - INFO - delt_name:cet1_at_s1_ios_tz_r06, create_amount:10
+2018-09-27 20:55:42,912 - __main__ - INFO - the platform: iOS, the country: AT
+2018-09-27 20:55:53,233 - __main__ - INFO - create amount is 10
+2018-09-27 20:55:53,234 - __main__ - INFO - delt_name:bbt2_ca_s1_android_tz_r12, create_amount:10
+2018-09-27 20:55:55,312 - __main__ - INFO - the platform: Android, the country: CA
+2018-09-27 20:56:05,406 - __main__ - INFO - create amount is 10
+2018-09-27 20:56:05,408 - __main__ - INFO - delt_name:bbt4_qa_s3_android_tz_r04, create_amount:10
+2018-09-27 20:56:07,267 - __main__ - INFO - the platform: Android, the country: QA
+2018-09-27 20:56:09,813 - __main__ - INFO - create amount is 100
+2018-09-27 20:56:09,814 - __main__ - INFO - delt_name:bbt2_ae_s3_ios_tz_r04, create_amount:100
+2018-09-27 20:56:11,693 - __main__ - INFO - the platform: iOS, the country: AE
+2018-09-27 20:56:15,393 - __main__ - INFO - create amount is 10
+2018-09-27 20:56:15,395 - __main__ - INFO - delt_name:bbt3_jp_s2_ios_tz_a00, create_amount:10
+2018-09-27 20:56:17,606 - __main__ - INFO - the platform: iOS, the country: JP
+2018-09-27 20:56:28,273 - __main__ - INFO - create amount is 10
+2018-09-27 20:56:28,275 - __main__ - INFO - delt_name:bet3_sa_s3_android_tz_r04, create_amount:10
+2018-09-27 20:56:30,090 - __main__ - INFO - the platform: Android, the country: SA
+2018-09-27 20:56:38,728 - __main__ - INFO - create amount is 10
+2018-09-27 20:56:38,729 - __main__ - INFO - delt_name:bet3_fr_s1_android_tz_r06, create_amount:10
+2018-09-27 20:56:40,474 - __main__ - INFO - the platform: Android, the country: FR
+2018-09-27 20:56:52,761 - __main__ - INFO - create amount is 10
+2018-09-27 20:56:52,763 - __main__ - INFO - delt_name:bbt4_no_s2_ios_tz_r06, create_amount:10
+2018-09-27 20:56:54,916 - __main__ - INFO - the platform: iOS, the country: NO
+2018-09-27 20:56:57,756 - __main__ - INFO - create amount is 100
+2018-09-27 20:56:57,757 - __main__ - INFO - delt_name:cet1_ru_s3_ios_tz_r04, create_amount:100
+2018-09-27 20:56:59,649 - __main__ - INFO - the platform: iOS, the country: RU
+2018-09-27 20:57:04,699 - __main__ - INFO - create amount is 10
+2018-09-27 20:57:04,700 - __main__ - INFO - delt_name:bbt3_gb_s1_android_tz_r06, create_amount:10
+2018-09-27 20:57:06,844 - __main__ - INFO - the platform: Android, the country: GB
+2018-09-27 20:57:21,299 - __main__ - INFO - create amount is 10
+2018-09-27 20:57:21,301 - __main__ - INFO - delt_name:bbt2_ru_s3_android_tz_r04, create_amount:10
+2018-09-27 20:57:23,451 - __main__ - INFO - the platform: Android, the country: RU
+2018-09-27 20:57:33,535 - __main__ - INFO - create amount is 10
+2018-09-27 20:57:33,536 - __main__ - INFO - delt_name:bbt2_sg_s1_ios_tz_a00, create_amount:10
+2018-09-27 20:57:35,337 - __main__ - INFO - the platform: iOS, the country: SG
+2018-09-27 20:57:45,770 - __main__ - INFO - create amount is 10
+2018-09-27 20:57:45,772 - __main__ - INFO - delt_name:bbt3_hk_s2_ios_tz_a00, create_amount:10
+2018-09-27 20:57:47,618 - __main__ - INFO - the platform: iOS, the country: HK
+2018-09-27 20:57:48,979 - __main__ - INFO - create amount is 100
+2018-09-27 20:57:48,980 - __main__ - INFO - delt_name:bbt2_hk_s2_ios_tz_a00, create_amount:100
+2018-09-27 20:57:51,410 - __main__ - INFO - the platform: iOS, the country: HK
+2018-09-27 20:57:55,105 - __main__ - INFO - delt_name:cet1_jp_s2_android_tz_a00, create_amount:10
+2018-09-27 20:57:55,356 - __main__ - INFO - the platform: Android, the country: JP
+2018-09-27 20:58:04,551 - __main__ - INFO - delt_name:cet2_qa_s3_android_tz_r04, create_amount:100
+2018-09-27 20:58:04,757 - __main__ - INFO - the platform: Android, the country: QA
+2018-09-27 20:58:05,399 - __main__ - INFO - create amount is 10
+2018-09-27 20:58:05,400 - __main__ - INFO - delt_name:cet1_bh_s4_android_tz_r04, create_amount:10
+2018-09-27 20:58:07,364 - __main__ - INFO - the platform: Android, the country: BH
+2018-09-27 20:58:15,749 - __main__ - INFO - create amount is 10
+2018-09-27 20:58:15,750 - __main__ - INFO - delt_name:cet1_gb_s1_ios_tz_r06, create_amount:10
+2018-09-27 20:58:17,620 - __main__ - INFO - the platform: iOS, the country: GB
+2018-09-27 20:58:30,510 - __main__ - INFO - create amount is 11
+2018-09-27 20:58:30,512 - __main__ - INFO - delt_name:bbt3_om_s3_android_tz_r04, create_amount:10
+2018-09-27 20:58:32,657 - __main__ - INFO - the platform: Android, the country: OM
+2018-09-27 20:58:40,927 - __main__ - INFO - create amount is 10
+2018-09-27 20:58:40,929 - __main__ - INFO - delt_name:bbt2_no_s2_ios_tz_r06, create_amount:10
+2018-09-27 20:58:42,795 - __main__ - INFO - the platform: iOS, the country: NO
+2018-09-27 20:58:44,860 - __main__ - INFO - delt_name:bbt3_tw_s4_android_tz_a00, create_amount:100
+2018-09-27 20:58:45,067 - __main__ - INFO - the platform: Android, the country: TW
+2018-09-27 20:58:47,349 - __main__ - INFO - create amount is 100
+2018-09-27 20:58:47,353 - __main__ - INFO - delt_name:bbt2_bh_s4_ios_tz_r04, create_amount:100
+2018-09-27 20:58:49,536 - __main__ - INFO - the platform: iOS, the country: BH
+2018-09-27 20:58:52,213 - __main__ - INFO - create amount is 10
+2018-09-27 20:58:52,215 - __main__ - INFO - delt_name:bbt2_hk_s2_ios_tz_a00, create_amount:10
+2018-09-27 20:58:54,063 - __main__ - INFO - the platform: iOS, the country: HK
+2018-09-27 20:58:56,127 - __main__ - INFO - delt_name:cet2_us_s2_ios_tz_r12, create_amount:100
+2018-09-27 20:58:56,333 - __main__ - INFO - the platform: iOS, the country: US
+2018-09-27 20:59:01,248 - __main__ - INFO - delt_name:bbt4_hk_s2_ios_tz_a00, create_amount:10
+2018-09-27 20:59:01,453 - __main__ - INFO - the platform: iOS, the country: HK
+2018-09-27 20:59:09,793 - __main__ - INFO - delt_name:cet2_ru_s3_ios_tz_r04, create_amount:10
+2018-09-27 20:59:10,032 - __main__ - INFO - the platform: iOS, the country: RU
+2018-09-27 20:59:12,769 - __main__ - INFO - delt_name:cet2_fr_s1_android_tz_r06, create_amount:100
+2018-09-27 20:59:12,975 - __main__ - INFO - the platform: Android, the country: FR
+2018-09-27 20:59:19,818 - __main__ - INFO - create amount is 10
+2018-09-27 20:59:19,820 - __main__ - INFO - delt_name:bbt2_au_s2_ios_tz_a02, create_amount:10
+2018-09-27 20:59:22,015 - __main__ - INFO - the platform: iOS, the country: AU
+2018-09-27 20:59:24,469 - __main__ - INFO - delt_name:bbt3_no_s2_android_tz_r06, create_amount:100
+2018-09-27 20:59:24,675 - __main__ - INFO - the platform: Android, the country: NO
+2018-09-27 20:59:32,427 - __main__ - INFO - create amount is 10
+2018-09-27 20:59:32,428 - __main__ - INFO - delt_name:bbt4_tw_s4_ios_tz_a00, create_amount:10
+2018-09-27 20:59:33,384 - __main__ - INFO - delt_name:bbt2_jp_s2_android_tz_a00, create_amount:100
+2018-09-27 20:59:33,589 - __main__ - INFO - the platform: Android, the country: JP
+2018-09-27 20:59:34,525 - __main__ - INFO - the platform: iOS, the country: TW
+2018-09-27 20:59:36,170 - __main__ - INFO - create amount is 100
+2018-09-27 20:59:36,172 - __main__ - INFO - delt_name:bet3_tw_s4_android_tz_a00, create_amount:100
+2018-09-27 20:59:38,027 - __main__ - INFO - the platform: Android, the country: TW
+2018-09-27 20:59:42,914 - __main__ - INFO - delt_name:bbt4_ae_s3_android_tz_r04, create_amount:100
+2018-09-27 20:59:43,121 - __main__ - INFO - the platform: Android, the country: AE
+2018-09-27 20:59:45,656 - __main__ - INFO - create amount is 10
+2018-09-27 20:59:45,658 - __main__ - INFO - delt_name:cet1_sa_s3_android_tz_r04, create_amount:10
+2018-09-27 20:59:47,557 - __main__ - INFO - the platform: Android, the country: SA
+2018-09-27 20:59:50,231 - __main__ - INFO - delt_name:bbt3_ae_s3_android_tz_r04, create_amount:100
+2018-09-27 20:59:50,441 - __main__ - INFO - the platform: Android, the country: AE
+2018-09-27 20:59:56,031 - __main__ - INFO - create amount is 10
+2018-09-27 20:59:56,032 - __main__ - INFO - delt_name:bbt3_no_s2_android_tz_r06, create_amount:10
+2018-09-27 20:59:57,861 - __main__ - INFO - the platform: Android, the country: NO
+2018-09-27 20:59:57,955 - __main__ - INFO - delt_name:cet1_sg_s1_android_tz_a00, create_amount:100
+2018-09-27 20:59:58,160 - __main__ - INFO - the platform: Android, the country: SG
+2018-09-27 21:00:01,092 - __main__ - INFO - delt_name:bbt2_bh_s4_android_tz_r04, create_amount:100
+2018-09-27 21:00:01,298 - __main__ - INFO - the platform: Android, the country: BH
+2018-09-27 21:00:02,881 - __main__ - INFO - delt_name:bet3_qa_s3_android_tz_r04, create_amount:100
+2018-09-27 21:00:03,087 - __main__ - INFO - the platform: Android, the country: QA
+2018-09-27 21:00:04,413 - __main__ - INFO - delt_name:bbt4_sa_s3_android_tz_r04, create_amount:100
+2018-09-27 21:00:04,619 - __main__ - INFO - the platform: Android, the country: SA
+2018-09-27 21:00:05,687 - __main__ - INFO - delt_name:cet2_sg_s1_ios_tz_a00, create_amount:100
+2018-09-27 21:00:05,893 - __main__ - INFO - the platform: iOS, the country: SG
+2018-09-27 21:00:06,791 - __main__ - INFO - delt_name:bbt2_mo_s2_android_tz_a00, create_amount:100
+2018-09-27 21:00:07,999 - __main__ - INFO - the platform: Android, the country: MO
+2018-09-27 21:00:07,129 - __main__ - INFO - create amount is 10
+2018-09-27 21:00:07,131 - __main__ - INFO - delt_name:cet1_ae_s3_ios_tz_r04, create_amount:10
+2018-09-27 21:00:07,852 - __main__ - INFO - delt_name:bet3_gb_s1_ios_tz_r06, create_amount:100
+2018-09-27 21:00:08,059 - __main__ - INFO - the platform: iOS, the country: GB
+2018-09-27 21:00:08,906 - __main__ - INFO - delt_name:cet1_jp_s2_android_tz_a00, create_amount:100
+2018-09-27 21:00:09,026 - __main__ - INFO - the platform: iOS, the country: AE
+2018-09-27 21:00:09,112 - __main__ - INFO - the platform: Android, the country: JP
+2018-09-27 21:00:10,211 - __main__ - INFO - delt_name:bbt3_gb_s1_ios_tz_r06, create_amount:100
+2018-09-27 21:00:11,803 - __main__ - INFO - the platform: iOS, the country: GB
+2018-09-27 21:00:13,359 - __main__ - INFO - delt_name:bbt4_om_s3_android_tz_r04, create_amount:100
+2018-09-27 21:00:13,565 - __main__ - INFO - the platform: Android, the country: OM
+2018-09-27 21:00:14,412 - __main__ - INFO - delt_name:cet1_sa_s3_android_tz_r04, create_amount:100
+2018-09-27 21:00:14,619 - __main__ - INFO - the platform: Android, the country: SA
+2018-09-27 21:00:15,482 - __main__ - INFO - delt_name:bbt4_gb_s1_ios_tz_r06, create_amount:100
+2018-09-27 21:00:15,687 - __main__ - INFO - the platform: iOS, the country: GB
+2018-09-27 21:00:16,627 - __main__ - INFO - delt_name:bbt4_kr_s1_ios_tz_a00, create_amount:100
+2018-09-27 21:00:16,897 - __main__ - INFO - the platform: iOS, the country: KR
+2018-09-27 21:00:17,747 - __main__ - INFO - delt_name:bbt2_de_s1_android_tz_r06, create_amount:100
+2018-09-27 21:00:17,955 - __main__ - INFO - the platform: Android, the country: DE
+2018-09-27 21:00:18,526 - __main__ - INFO - create amount is 10
+2018-09-27 21:00:18,527 - __main__ - INFO - delt_name:cet2_at_s1_ios_tz_r06, create_amount:10
+2018-09-27 21:00:18,872 - __main__ - INFO - delt_name:bet3_jp_s2_android_tz_a00, create_amount:100
+2018-09-27 21:00:19,079 - __main__ - INFO - the platform: Android, the country: JP
+2018-09-27 21:00:19,931 - __main__ - INFO - delt_name:cet2_sa_s3_ios_tz_r04, create_amount:100
+2018-09-27 21:00:20,350 - __main__ - INFO - the platform: iOS, the country: AT
+2018-09-27 21:00:30,593 - __main__ - INFO - create amount is 10
+2018-09-27 21:00:30,594 - __main__ - INFO - delt_name:bet3_us_s2_ios_tz_r12, create_amount:10
+2018-09-27 21:00:31,442 - __main__ - INFO - create amount is 100
+2018-09-27 21:00:31,444 - __main__ - INFO - delt_name:cet2_kr_s1_android_tz_a00, create_amount:100
+2018-09-27 21:00:32,802 - __main__ - INFO - the platform: iOS, the country: US
+2018-09-27 21:00:33,316 - __main__ - INFO - the platform: Android, the country: KR
+2018-09-27 21:00:52,934 - __main__ - INFO - create amount is 10
+2018-09-27 21:00:52,937 - __main__ - INFO - delt_name:bbt2_at_s1_ios_tz_r06, create_amount:10
+2018-09-27 21:00:55,197 - __main__ - INFO - the platform: iOS, the country: AT
+2018-09-27 21:01:04,838 - __main__ - INFO - create amount is 10
+2018-09-27 21:01:04,839 - __main__ - INFO - delt_name:cet2_ca_s1_ios_tz_r12, create_amount:10
+2018-09-27 21:01:06,171 - __main__ - INFO - the platform: iOS, the country: CA
+2018-09-27 21:01:15,754 - __main__ - INFO - create amount is 10
+2018-09-27 21:01:15,756 - __main__ - INFO - delt_name:bet3_au_s2_ios_tz_a02, create_amount:10
+2018-09-27 21:01:17,833 - __main__ - INFO - the platform: iOS, the country: AU
+2018-09-27 21:01:27,618 - __main__ - INFO - create amount is 100
+2018-09-27 21:01:27,619 - __main__ - INFO - delt_name:bbt4_no_s2_ios_tz_r06, create_amount:100
+2018-09-27 21:01:28,831 - __main__ - INFO - create amount is 10
+2018-09-27 21:01:28,833 - __main__ - INFO - delt_name:cet1_fr_s1_ios_tz_r06, create_amount:10
+2018-09-27 21:01:29,708 - __main__ - INFO - the platform: iOS, the country: NO
+2018-09-27 21:01:30,983 - __main__ - INFO - the platform: iOS, the country: FR
+2018-09-27 21:01:41,884 - __main__ - INFO - create amount is 10
+2018-09-27 21:01:41,886 - __main__ - INFO - delt_name:bbt2_ae_s3_android_tz_r04, create_amount:10
+2018-09-27 21:01:43,665 - __main__ - INFO - the platform: Android, the country: AE
+2018-09-27 21:01:49,836 - __main__ - INFO - create amount is 1000
+2018-09-27 21:01:49,840 - __main__ - INFO - delt_name:cet2_ae_s3_ios_tz_r04, create_amount:1000
+2018-09-27 21:01:51,528 - __main__ - INFO - create amount is 10
+2018-09-27 21:01:51,529 - __main__ - INFO - delt_name:cet2_om_s3_ios_tz_r04, create_amount:10
+2018-09-27 21:01:51,739 - __main__ - INFO - the platform: iOS, the country: AE
+2018-09-27 21:01:53,675 - __main__ - INFO - the platform: iOS, the country: OM
+2018-09-27 21:02:01,940 - __main__ - INFO - create amount is 10
+2018-09-27 21:02:01,941 - __main__ - INFO - delt_name:bbt4_ru_s3_android_tz_r04, create_amount:10
+2018-09-27 21:02:03,910 - __main__ - INFO - the platform: Android, the country: RU
+2018-09-27 21:02:14,028 - __main__ - INFO - create amount is 10
+2018-09-27 21:02:14,030 - __main__ - INFO - delt_name:bet3_kr_s1_android_tz_a00, create_amount:10
+2018-09-27 21:02:15,895 - __main__ - INFO - the platform: Android, the country: KR
+2018-09-27 21:02:17,773 - __main__ - INFO - create amount is 100
+2018-09-27 21:02:17,777 - __main__ - INFO - delt_name:bbt4_fr_s1_android_tz_r06, create_amount:100
+2018-09-27 21:02:20,087 - __main__ - INFO - the platform: Android, the country: FR
+2018-09-27 21:02:26,875 - __main__ - INFO - create amount is 10
+2018-09-27 21:02:26,877 - __main__ - INFO - delt_name:bet3_no_s2_ios_tz_r06, create_amount:10
+2018-09-27 21:02:29,116 - __main__ - INFO - the platform: iOS, the country: NO
+2018-09-27 21:02:39,272 - __main__ - INFO - create amount is 10
+2018-09-27 21:02:39,273 - __main__ - INFO - delt_name:bbt3_au_s2_ios_tz_a02, create_amount:10
+2018-09-27 21:02:41,641 - __main__ - INFO - the platform: iOS, the country: AU
+2018-09-27 21:02:51,926 - __main__ - INFO - create amount is 10
+2018-09-27 21:02:51,928 - __main__ - INFO - delt_name:bbt4_jp_s2_ios_tz_a00, create_amount:10
+2018-09-27 21:02:53,884 - __main__ - INFO - the platform: iOS, the country: JP
+2018-09-27 21:03:03,901 - __main__ - INFO - create amount is 10
+2018-09-27 21:03:03,902 - __main__ - INFO - delt_name:bet3_at_s1_ios_tz_r06, create_amount:10
+2018-09-27 21:03:06,173 - __main__ - INFO - the platform: iOS, the country: AT
+2018-09-27 21:03:14,967 - __main__ - INFO - create amount is 10
+2018-09-27 21:03:14,968 - __main__ - INFO - delt_name:bet3_us_s2_android_tz_r12, create_amount:10
+2018-09-27 21:03:17,146 - __main__ - INFO - the platform: Android, the country: US
+2018-09-27 21:03:21,220 - __main__ - INFO - create amount is 100
+2018-09-27 21:03:21,222 - __main__ - INFO - delt_name:bet3_de_s1_android_tz_r06, create_amount:100
+2018-09-27 21:03:23,577 - __main__ - INFO - the platform: Android, the country: DE
+2018-09-27 21:03:33,995 - __main__ - INFO - create amount is 10
+2018-09-27 21:03:33,999 - __main__ - INFO - delt_name:bet3_kr_s1_ios_tz_a00, create_amount:10
+2018-09-27 21:03:36,684 - __main__ - INFO - the platform: iOS, the country: KR
+2018-09-27 21:03:49,497 - __main__ - INFO - create amount is 10
+2018-09-27 21:03:49,501 - __main__ - INFO - delt_name:cet1_ca_s1_android_tz_r12, create_amount:10
+2018-09-27 21:03:51,535 - __main__ - INFO - the platform: Android, the country: CA
+2018-09-27 21:04:01,477 - __main__ - INFO - create amount is 10
+2018-09-27 21:04:01,479 - __main__ - INFO - delt_name:bbt4_au_s2_android_tz_a02, create_amount:10
+2018-09-27 21:04:03,414 - __main__ - INFO - the platform: Android, the country: AU
+2018-09-27 21:04:14,008 - __main__ - INFO - create amount is 10
+2018-09-27 21:04:14,010 - __main__ - INFO - delt_name:cet2_ae_s3_android_tz_r04, create_amount:10
+2018-09-27 21:04:15,820 - __main__ - INFO - the platform: Android, the country: AE
+2018-09-27 21:04:20,393 - __main__ - INFO - create amount is 100
+2018-09-27 21:04:20,402 - __main__ - INFO - delt_name:bet3_hk_s2_ios_tz_a00, create_amount:100
+2018-09-27 21:04:22,762 - __main__ - INFO - the platform: iOS, the country: HK
+2018-09-27 21:04:24,728 - __main__ - INFO - create amount is 10
+2018-09-27 21:04:24,729 - __main__ - INFO - delt_name:bet3_om_s3_android_tz_r04, create_amount:10
+2018-09-27 21:04:26,760 - __main__ - INFO - the platform: Android, the country: OM
+2018-09-27 21:04:35,506 - __main__ - INFO - delt_name:cet1_qa_s3_ios_tz_r04, create_amount:100
+2018-09-27 21:04:35,767 - __main__ - INFO - the platform: iOS, the country: QA
+2018-09-27 21:04:36,335 - __main__ - INFO - create amount is 10
+2018-09-27 21:04:36,336 - __main__ - INFO - delt_name:cet1_sg_s1_android_tz_a00, create_amount:10
+2018-09-27 21:04:38,459 - __main__ - INFO - the platform: Android, the country: SG
+2018-09-27 21:04:50,330 - __main__ - INFO - create amount is 10
+2018-09-27 21:04:50,332 - __main__ - INFO - delt_name:cet1_us_s2_android_tz_r12, create_amount:10
+2018-09-27 21:04:52,565 - __main__ - INFO - the platform: Android, the country: US
+2018-09-27 21:05:09,464 - __main__ - INFO - create amount is 10
+2018-09-27 21:05:09,470 - __main__ - INFO - delt_name:cet1_om_s3_android_tz_r04, create_amount:10
+2018-09-27 21:05:11,861 - __main__ - INFO - the platform: Android, the country: OM
+2018-09-27 21:05:19,597 - __main__ - INFO - create amount is 100
+2018-09-27 21:05:19,601 - __main__ - INFO - delt_name:bet3_om_s3_ios_tz_r04, create_amount:100
+2018-09-27 21:05:20,338 - __main__ - INFO - create amount is 10
+2018-09-27 21:05:20,340 - __main__ - INFO - delt_name:bbt3_bh_s4_android_tz_r04, create_amount:10
+2018-09-27 21:05:21,389 - __main__ - INFO - the platform: iOS, the country: OM
+2018-09-27 21:05:22,475 - __main__ - INFO - the platform: Android, the country: BH
+2018-09-27 21:05:29,948 - __main__ - INFO - create amount is 10
+2018-09-27 21:05:29,949 - __main__ - INFO - delt_name:bbt3_mo_s2_android_tz_a00, create_amount:10
+2018-09-27 21:05:32,397 - __main__ - INFO - the platform: Android, the country: MO
+2018-09-27 21:05:40,332 - __main__ - INFO - create amount is 10
+2018-09-27 21:05:40,333 - __main__ - INFO - delt_name:bbt2_fr_s1_ios_tz_r06, create_amount:10
+2018-09-27 21:05:42,738 - __main__ - INFO - the platform: iOS, the country: FR
+2018-09-27 21:05:53,144 - __main__ - INFO - create amount is 10
+2018-09-27 21:05:53,146 - __main__ - INFO - delt_name:cet2_tw_s4_android_tz_a00, create_amount:10
+2018-09-27 21:05:54,877 - __main__ - INFO - the platform: Android, the country: TW
+2018-09-27 21:06:05,795 - __main__ - INFO - create amount is 10
+2018-09-27 21:06:05,798 - __main__ - INFO - delt_name:bet3_sa_s3_ios_tz_r04, create_amount:10
+2018-09-27 21:06:07,930 - __main__ - INFO - the platform: iOS, the country: SA
+2018-09-27 21:06:09,491 - __main__ - INFO - create amount is 100
+2018-09-27 21:06:09,493 - __main__ - INFO - delt_name:bbt4_ca_s1_android_tz_r12, create_amount:100
+2018-09-27 21:06:11,646 - __main__ - INFO - the platform: Android, the country: CA
+2018-09-27 21:06:15,293 - __main__ - INFO - create amount is 10
+2018-09-27 21:06:15,294 - __main__ - INFO - delt_name:bbt3_fr_s1_android_tz_r06, create_amount:10
+2018-09-27 21:06:17,449 - __main__ - INFO - the platform: Android, the country: FR
+2018-09-27 21:06:28,564 - __main__ - INFO - create amount is 10
+2018-09-27 21:06:28,566 - __main__ - INFO - delt_name:bbt4_mo_s2_ios_tz_a00, create_amount:10
+2018-09-27 21:06:30,394 - __main__ - INFO - the platform: iOS, the country: MO
+2018-09-27 21:06:37,815 - __main__ - INFO - create amount is 10
+2018-09-27 21:06:37,816 - __main__ - INFO - delt_name:cet2_sa_s3_ios_tz_r04, create_amount:10
+2018-09-27 21:06:39,776 - __main__ - INFO - the platform: iOS, the country: SA
+2018-09-27 21:06:49,893 - __main__ - INFO - create amount is 10
+2018-09-27 21:06:49,894 - __main__ - INFO - delt_name:cet2_no_s2_ios_tz_r06, create_amount:10
+2018-09-27 21:06:51,787 - __main__ - INFO - the platform: iOS, the country: NO
+2018-09-27 21:07:03,122 - __main__ - INFO - create amount is 100
+2018-09-27 21:07:03,123 - __main__ - INFO - delt_name:cet2_bh_s4_android_tz_r04, create_amount:100
+2018-09-27 21:07:04,774 - __main__ - INFO - create amount is 10
+2018-09-27 21:07:04,776 - __main__ - INFO - delt_name:bet3_sg_s1_android_tz_a00, create_amount:10
+2018-09-27 21:07:05,483 - __main__ - INFO - the platform: Android, the country: BH
+2018-09-27 21:07:07,037 - __main__ - INFO - the platform: Android, the country: SG
+2018-09-27 21:07:18,654 - __main__ - INFO - create amount is 10
+2018-09-27 21:07:18,655 - __main__ - INFO - delt_name:cet2_mo_s2_ios_tz_a00, create_amount:10
+2018-09-27 21:07:21,285 - __main__ - INFO - the platform: iOS, the country: MO
+2018-09-27 21:07:34,484 - __main__ - INFO - create amount is 10
+2018-09-27 21:07:34,486 - __main__ - INFO - delt_name:cet2_sg_s1_android_tz_a00, create_amount:10
+2018-09-27 21:07:36,249 - __main__ - INFO - the platform: Android, the country: SG
+2018-09-27 21:07:36,413 - __main__ - INFO - create amount is 1000
+2018-09-27 21:07:36,415 - __main__ - INFO - delt_name:bet3_hk_s2_ios_tz_a00, create_amount:1000
+2018-09-27 21:07:38,251 - __main__ - INFO - the platform: iOS, the country: HK
+2018-09-27 21:07:46,288 - __main__ - INFO - create amount is 10
+2018-09-27 21:07:46,289 - __main__ - INFO - delt_name:bbt3_bh_s4_ios_tz_r04, create_amount:10
+2018-09-27 21:07:48,280 - __main__ - INFO - the platform: iOS, the country: BH
+2018-09-27 21:07:51,740 - __main__ - INFO - delt_name:bbt2_kw_s4_ios_tz_r04, create_amount:1000
+2018-09-27 21:07:51,946 - __main__ - INFO - the platform: iOS, the country: KW
+2018-09-27 21:07:55,808 - __main__ - INFO - create amount is 10
+2018-09-27 21:07:55,810 - __main__ - INFO - delt_name:bbt4_at_s1_android_tz_r06, create_amount:10
+2018-09-27 21:07:57,940 - __main__ - INFO - the platform: Android, the country: AT
+2018-09-27 21:08:03,585 - __main__ - INFO - create amount is 100
+2018-09-27 21:08:03,587 - __main__ - INFO - delt_name:bbt4_ru_s3_android_tz_r04, create_amount:100
+2018-09-27 21:08:05,995 - __main__ - INFO - the platform: Android, the country: RU
+2018-09-27 21:08:06,511 - __main__ - INFO - create amount is 10
+2018-09-27 21:08:06,512 - __main__ - INFO - delt_name:bbt3_ca_s1_android_tz_r12, create_amount:10
+2018-09-27 21:08:08,967 - __main__ - INFO - the platform: Android, the country: CA
+2018-09-27 21:08:19,043 - __main__ - INFO - create amount is 10
+2018-09-27 21:08:19,047 - __main__ - INFO - delt_name:bbt4_om_s3_android_tz_r04, create_amount:10
+2018-09-27 21:08:21,178 - __main__ - INFO - the platform: Android, the country: OM
+2018-09-27 21:08:29,192 - __main__ - INFO - create amount is 10
+2018-09-27 21:08:29,194 - __main__ - INFO - delt_name:cet1_kr_s1_ios_tz_a00, create_amount:10
+2018-09-27 21:08:31,122 - __main__ - INFO - the platform: iOS, the country: KR
+2018-09-27 21:08:44,704 - __main__ - INFO - create amount is 10
+2018-09-27 21:08:44,706 - __main__ - INFO - delt_name:cet2_om_s3_android_tz_r04, create_amount:10
+2018-09-27 21:08:46,697 - __main__ - INFO - the platform: Android, the country: OM
+2018-09-27 21:08:54,431 - __main__ - INFO - create amount is 101
+2018-09-27 21:08:54,433 - __main__ - INFO - delt_name:bbt3_ca_s1_ios_tz_r12, create_amount:100
+2018-09-27 21:08:54,678 - __main__ - INFO - create amount is 10
+2018-09-27 21:08:54,679 - __main__ - INFO - delt_name:bbt2_ae_s3_ios_tz_r04, create_amount:10
+2018-09-27 21:08:56,481 - __main__ - INFO - the platform: iOS, the country: CA
+2018-09-27 21:08:56,690 - __main__ - INFO - the platform: iOS, the country: AE
+2018-09-27 21:09:04,865 - __main__ - INFO - create amount is 10
+2018-09-27 21:09:04,866 - __main__ - INFO - delt_name:bbt3_ru_s3_ios_tz_r04, create_amount:10
+2018-09-27 21:09:06,721 - __main__ - INFO - the platform: iOS, the country: RU
+2018-09-27 21:09:16,320 - __main__ - INFO - create amount is 11
+2018-09-27 21:09:16,322 - __main__ - INFO - delt_name:bbt4_au_s2_ios_tz_a02, create_amount:10
+2018-09-27 21:09:17,724 - __main__ - INFO - the platform: iOS, the country: AU
+2018-09-27 21:09:28,032 - __main__ - INFO - create amount is 11
+2018-09-27 21:09:28,034 - __main__ - INFO - delt_name:cet2_au_s2_ios_tz_a02, create_amount:10
+2018-09-27 21:09:30,069 - __main__ - INFO - the platform: iOS, the country: AU
+2018-09-27 21:09:39,820 - __main__ - INFO - create amount is 10
+2018-09-27 21:09:39,822 - __main__ - INFO - delt_name:bbt4_gb_s1_ios_tz_r06, create_amount:10
+2018-09-27 21:09:42,262 - __main__ - INFO - the platform: iOS, the country: GB
+2018-09-27 21:09:52,753 - __main__ - INFO - create amount is 100
+2018-09-27 21:09:52,754 - __main__ - INFO - delt_name:cet2_fr_s1_ios_tz_r06, create_amount:100
+2018-09-27 21:09:54,745 - __main__ - INFO - the platform: iOS, the country: FR
+2018-09-27 21:09:54,925 - __main__ - INFO - create amount is 10
+2018-09-27 21:09:54,927 - __main__ - INFO - delt_name:bbt4_ae_s3_ios_tz_r04, create_amount:10
+2018-09-27 21:09:56,692 - __main__ - INFO - the platform: iOS, the country: AE
+2018-09-27 21:10:04,514 - __main__ - INFO - create amount is 10
+2018-09-27 21:10:04,516 - __main__ - INFO - delt_name:bet3_om_s3_ios_tz_r04, create_amount:10
+2018-09-27 21:10:06,445 - __main__ - INFO - the platform: iOS, the country: OM
+2018-09-27 21:10:14,744 - __main__ - INFO - create amount is 10
+2018-09-27 21:10:14,745 - __main__ - INFO - delt_name:bbt3_sa_s3_ios_tz_r04, create_amount:10
+2018-09-27 21:10:16,979 - __main__ - INFO - the platform: iOS, the country: SA
+2018-09-27 21:10:25,101 - __main__ - INFO - create amount is 10
+2018-09-27 21:10:25,102 - __main__ - INFO - delt_name:bbt3_no_s2_ios_tz_r06, create_amount:10
+2018-09-27 21:10:27,310 - __main__ - INFO - the platform: iOS, the country: NO
+2018-09-27 21:10:36,759 - __main__ - INFO - create amount is 10
+2018-09-27 21:10:36,760 - __main__ - INFO - delt_name:cet1_hk_s2_ios_tz_a00, create_amount:10
+2018-09-27 21:10:38,133 - __main__ - INFO - the platform: iOS, the country: HK
+2018-09-27 21:10:43,946 - __main__ - INFO - create amount is 100
+2018-09-27 21:10:43,948 - __main__ - INFO - delt_name:bbt3_bh_s4_ios_tz_r04, create_amount:100
+2018-09-27 21:10:45,154 - __main__ - INFO - delt_name:bbt3_us_s2_android_tz_r12, create_amount:10
+2018-09-27 21:10:45,433 - __main__ - INFO - the platform: Android, the country: US
+2018-09-27 21:10:46,050 - __main__ - INFO - the platform: iOS, the country: BH
+2018-09-27 21:11:02,158 - __main__ - INFO - create amount is 10
+2018-09-27 21:11:02,163 - __main__ - INFO - delt_name:bbt2_sa_s3_ios_tz_r04, create_amount:10
+2018-09-27 21:11:04,263 - __main__ - INFO - the platform: iOS, the country: SA
+2018-09-27 21:11:12,312 - __main__ - INFO - create amount is 10
+2018-09-27 21:11:12,314 - __main__ - INFO - delt_name:bbt4_no_s2_android_tz_r06, create_amount:10
+2018-09-27 21:11:14,627 - __main__ - INFO - the platform: Android, the country: NO
+2018-09-27 21:11:24,200 - __main__ - INFO - create amount is 10
+2018-09-27 21:11:24,202 - __main__ - INFO - delt_name:bbt3_de_s1_android_tz_r06, create_amount:10
+2018-09-27 21:11:25,476 - __main__ - INFO - the platform: Android, the country: DE
+2018-09-27 21:11:39,707 - __main__ - INFO - create amount is 100
+2018-09-27 21:11:39,709 - __main__ - INFO - delt_name:bbt4_ae_s3_ios_tz_r04, create_amount:100
+2018-09-27 21:11:41,069 - __main__ - INFO - create amount is 10
+2018-09-27 21:11:41,072 - __main__ - INFO - delt_name:cet1_om_s3_ios_tz_r04, create_amount:10
+2018-09-27 21:11:42,719 - __main__ - INFO - the platform: iOS, the country: AE
+2018-09-27 21:11:42,983 - __main__ - INFO - the platform: iOS, the country: OM
+2018-09-27 21:11:52,692 - __main__ - INFO - create amount is 10
+2018-09-27 21:11:52,693 - __main__ - INFO - delt_name:bbt2_us_s2_ios_tz_r12, create_amount:10
+2018-09-27 21:11:54,840 - __main__ - INFO - the platform: iOS, the country: US
+2018-09-27 21:12:11,697 - __main__ - INFO - create amount is 10
+2018-09-27 21:12:11,700 - __main__ - INFO - delt_name:cet2_bh_s4_android_tz_r04, create_amount:10
+2018-09-27 21:12:13,919 - __main__ - INFO - the platform: Android, the country: BH
+2018-09-27 21:12:22,196 - __main__ - INFO - create amount is 10
+2018-09-27 21:12:22,197 - __main__ - INFO - delt_name:bbt4_ca_s1_android_tz_r12, create_amount:10
+2018-09-27 21:12:24,149 - __main__ - INFO - the platform: Android, the country: CA
+2018-09-27 21:12:26,814 - __main__ - INFO - create amount is 100
+2018-09-27 21:12:26,816 - __main__ - INFO - delt_name:bbt3_kr_s1_ios_tz_a00, create_amount:100
+2018-09-27 21:12:29,167 - __main__ - INFO - the platform: iOS, the country: KR
+2018-09-27 21:12:33,417 - __main__ - INFO - create amount is 10
+2018-09-27 21:12:33,419 - __main__ - INFO - delt_name:bbt3_kr_s1_android_tz_a00, create_amount:10
+2018-09-27 21:12:35,313 - __main__ - INFO - the platform: Android, the country: KR
+2018-09-27 21:12:46,953 - __main__ - INFO - create amount is 10
+2018-09-27 21:12:46,955 - __main__ - INFO - delt_name:cet1_jp_s2_ios_tz_a00, create_amount:10
+2018-09-27 21:12:48,848 - __main__ - INFO - the platform: iOS, the country: JP
+2018-09-27 21:12:58,999 - __main__ - INFO - create amount is 10
+2018-09-27 21:12:59,001 - __main__ - INFO - delt_name:bbt2_de_s1_android_tz_r06, create_amount:10
+2018-09-27 21:13:00,816 - __main__ - INFO - the platform: Android, the country: DE
+2018-09-27 21:13:13,984 - __main__ - INFO - create amount is 10
+2018-09-27 21:13:13,987 - __main__ - INFO - delt_name:cet2_tw_s4_ios_tz_a00, create_amount:10
+2018-09-27 21:13:16,186 - __main__ - INFO - the platform: iOS, the country: TW
+2018-09-27 21:13:18,936 - __main__ - INFO - create amount is 100
+2018-09-27 21:13:18,939 - __main__ - INFO - delt_name:bet3_gb_s1_ios_tz_r06, create_amount:100
+2018-09-27 21:13:20,979 - __main__ - INFO - the platform: iOS, the country: GB
+2018-09-27 21:13:27,416 - __main__ - INFO - create amount is 10
+2018-09-27 21:13:27,417 - __main__ - INFO - delt_name:bbt2_mo_s2_ios_tz_a00, create_amount:10
+2018-09-27 21:13:29,588 - __main__ - INFO - the platform: iOS, the country: MO
+2018-09-27 21:13:35,623 - __main__ - INFO - create amount is 1000
+2018-09-27 21:13:35,624 - __main__ - INFO - delt_name:bbt2_ru_s3_android_tz_r04, create_amount:1000
+2018-09-27 21:13:37,788 - __main__ - INFO - create amount is 10
+2018-09-27 21:13:37,789 - __main__ - INFO - delt_name:bet3_tw_s4_android_tz_a00, create_amount:10
+2018-09-27 21:13:37,980 - __main__ - INFO - the platform: Android, the country: RU
+2018-09-27 21:13:39,821 - __main__ - INFO - the platform: Android, the country: TW
+2018-09-27 21:13:52,022 - __main__ - INFO - create amount is 10
+2018-09-27 21:13:52,024 - __main__ - INFO - delt_name:bet3_de_s1_android_tz_r06, create_amount:10
+2018-09-27 21:13:53,786 - __main__ - INFO - the platform: Android, the country: DE
+2018-09-27 21:14:07,019 - __main__ - INFO - create amount is 10
+2018-09-27 21:14:07,022 - __main__ - INFO - delt_name:bbt3_qa_s3_ios_tz_r04, create_amount:10
+2018-09-27 21:14:09,007 - __main__ - INFO - the platform: iOS, the country: QA
+2018-09-27 21:14:16,634 - __main__ - INFO - create amount is 10
+2018-09-27 21:14:16,635 - __main__ - INFO - delt_name:cet2_fr_s1_ios_tz_r06, create_amount:10
+2018-09-27 21:14:17,536 - __main__ - INFO - create amount is 100
+2018-09-27 21:14:17,541 - __main__ - INFO - delt_name:bbt2_at_s1_ios_tz_r06, create_amount:100
+2018-09-27 21:14:18,735 - __main__ - INFO - the platform: iOS, the country: FR
+2018-09-27 21:14:19,660 - __main__ - INFO - the platform: iOS, the country: AT
+2018-09-27 21:14:30,152 - __main__ - INFO - create amount is 10
+2018-09-27 21:14:30,153 - __main__ - INFO - delt_name:bbt4_kw_s4_android_tz_r04, create_amount:10
+2018-09-27 21:14:32,260 - __main__ - INFO - the platform: Android, the country: KW
+2018-09-27 21:14:40,694 - __main__ - INFO - create amount is 10
+2018-09-27 21:14:40,695 - __main__ - INFO - delt_name:bbt4_qa_s3_ios_tz_r04, create_amount:10
+2018-09-27 21:14:42,390 - __main__ - INFO - the platform: iOS, the country: QA
+2018-09-27 21:14:50,166 - __main__ - INFO - create amount is 10
+2018-09-27 21:14:50,167 - __main__ - INFO - delt_name:bet3_de_s1_ios_tz_r06, create_amount:10
+2018-09-27 21:14:52,120 - __main__ - INFO - the platform: iOS, the country: DE
+2018-09-27 21:15:04,773 - __main__ - INFO - create amount is 10
+2018-09-27 21:15:04,775 - __main__ - INFO - delt_name:cet1_bh_s4_ios_tz_r04, create_amount:10
+2018-09-27 21:15:06,941 - __main__ - INFO - the platform: iOS, the country: BH
+2018-09-27 21:15:08,381 - __main__ - INFO - create amount is 100
+2018-09-27 21:15:08,384 - __main__ - INFO - delt_name:bet3_no_s2_android_tz_r06, create_amount:100
+2018-09-27 21:15:10,246 - __main__ - INFO - the platform: Android, the country: NO
+2018-09-27 21:15:15,986 - __main__ - INFO - create amount is 10
+2018-09-27 21:15:15,988 - __main__ - INFO - delt_name:bbt2_kr_s1_ios_tz_a00, create_amount:10
+2018-09-27 21:15:18,231 - __main__ - INFO - the platform: iOS, the country: KR
+2018-09-27 21:15:29,645 - __main__ - INFO - create amount is 10
+2018-09-27 21:15:29,646 - __main__ - INFO - delt_name:cet2_de_s1_android_tz_r06, create_amount:10
+2018-09-27 21:15:31,665 - __main__ - INFO - the platform: Android, the country: DE
+2018-09-27 21:15:44,251 - __main__ - INFO - create amount is 10
+2018-09-27 21:15:44,254 - __main__ - INFO - delt_name:bet3_ae_s3_ios_tz_r04, create_amount:10
+2018-09-27 21:15:46,416 - __main__ - INFO - the platform: iOS, the country: AE
+2018-09-27 21:15:54,148 - __main__ - INFO - create amount is 10
+2018-09-27 21:15:54,149 - __main__ - INFO - delt_name:cet2_jp_s2_android_tz_a00, create_amount:10
+2018-09-27 21:15:56,016 - __main__ - INFO - the platform: Android, the country: JP
+2018-09-27 21:15:56,603 - __main__ - INFO - create amount is 100
+2018-09-27 21:15:56,605 - __main__ - INFO - delt_name:bbt4_kw_s4_ios_tz_r04, create_amount:100
+2018-09-27 21:15:58,544 - __main__ - INFO - the platform: iOS, the country: KW
+2018-09-27 21:16:06,159 - __main__ - INFO - create amount is 10
+2018-09-27 21:16:06,160 - __main__ - INFO - delt_name:bet3_gb_s1_ios_tz_r06, create_amount:10
+2018-09-27 21:16:08,411 - __main__ - INFO - the platform: iOS, the country: GB
+2018-09-27 21:16:21,290 - __main__ - INFO - create amount is 10
+2018-09-27 21:16:21,292 - __main__ - INFO - delt_name:cet2_us_s2_android_tz_r12, create_amount:10
+2018-09-27 21:16:23,561 - __main__ - INFO - the platform: Android, the country: US
+2018-09-27 21:16:40,673 - __main__ - INFO - create amount is 10
+2018-09-27 21:16:40,677 - __main__ - INFO - delt_name:bet3_ru_s3_ios_tz_r04, create_amount:10
+2018-09-27 21:16:42,611 - __main__ - INFO - the platform: iOS, the country: RU
+2018-09-27 21:16:44,658 - __main__ - INFO - create amount is 100
+2018-09-27 21:16:44,660 - __main__ - INFO - delt_name:bbt3_ae_s3_android_tz_r04, create_amount:100
+2018-09-27 21:16:47,011 - __main__ - INFO - the platform: Android, the country: AE
+2018-09-27 21:16:51,802 - __main__ - INFO - create amount is 10
+2018-09-27 21:16:51,803 - __main__ - INFO - delt_name:cet1_sa_s3_ios_tz_r04, create_amount:10
+2018-09-27 21:16:53,771 - __main__ - INFO - the platform: iOS, the country: SA
+2018-09-27 21:17:01,502 - __main__ - INFO - create amount is 10
+2018-09-27 21:17:01,503 - __main__ - INFO - delt_name:cet1_no_s2_android_tz_r06, create_amount:10
+2018-09-27 21:17:03,498 - __main__ - INFO - the platform: Android, the country: NO
+2018-09-27 21:17:12,997 - __main__ - INFO - create amount is 10
+2018-09-27 21:17:12,999 - __main__ - INFO - delt_name:cet2_hk_s2_android_tz_a00, create_amount:10
+2018-09-27 21:17:14,469 - __main__ - INFO - the platform: Android, the country: HK
+2018-09-27 21:17:21,755 - __main__ - INFO - delt_name:bbt3_au_s2_android_tz_a02, create_amount:10
+2018-09-27 21:17:22,031 - __main__ - INFO - the platform: Android, the country: AU
+2018-09-27 21:17:31,123 - __main__ - INFO - create amount is 100
+2018-09-27 21:17:31,125 - __main__ - INFO - delt_name:cet2_hk_s2_ios_tz_a00, create_amount:100
+2018-09-27 21:17:32,536 - __main__ - INFO - create amount is 10
+2018-09-27 21:17:32,537 - __main__ - INFO - delt_name:bet3_qa_s3_ios_tz_r04, create_amount:10
+2018-09-27 21:17:33,499 - __main__ - INFO - the platform: iOS, the country: HK
+2018-09-27 21:17:34,423 - __main__ - INFO - the platform: iOS, the country: QA
+2018-09-27 21:17:42,643 - __main__ - INFO - create amount is 10
+2018-09-27 21:17:42,645 - __main__ - INFO - delt_name:bbt2_kw_s4_ios_tz_r04, create_amount:10
+2018-09-27 21:17:44,800 - __main__ - INFO - the platform: iOS, the country: KW
+2018-09-27 21:17:47,028 - __main__ - INFO - delt_name:bet3_au_s2_ios_tz_a02, create_amount:100
+2018-09-27 21:17:47,234 - __main__ - INFO - the platform: iOS, the country: AU
+2018-09-27 21:17:53,078 - __main__ - INFO - create amount is 10
+2018-09-27 21:17:53,079 - __main__ - INFO - delt_name:cet1_ru_s3_android_tz_r04, create_amount:10
+2018-09-27 21:17:55,210 - __main__ - INFO - the platform: Android, the country: RU
+2018-09-27 21:18:04,892 - __main__ - INFO - create amount is 10
+2018-09-27 21:18:04,894 - __main__ - INFO - delt_name:bbt2_jp_s2_ios_tz_a00, create_amount:10
+2018-09-27 21:18:06,985 - __main__ - INFO - the platform: iOS, the country: JP
+2018-09-27 21:18:19,519 - __main__ - INFO - create amount is 10
+2018-09-27 21:18:19,522 - __main__ - INFO - delt_name:bbt4_de_s1_android_tz_r06, create_amount:10
+2018-09-27 21:18:21,526 - __main__ - INFO - the platform: Android, the country: DE
+2018-09-27 21:18:36,273 - __main__ - INFO - create amount is 10
+2018-09-27 21:18:36,276 - __main__ - INFO - delt_name:bbt3_gb_s1_ios_tz_r06, create_amount:10
+2018-09-27 21:18:38,531 - __main__ - INFO - the platform: iOS, the country: GB
+2018-09-27 21:18:41,484 - __main__ - INFO - create amount is 100
+2018-09-27 21:18:41,487 - __main__ - INFO - delt_name:cet1_hk_s2_android_tz_a00, create_amount:100
+2018-09-27 21:18:44,249 - __main__ - INFO - the platform: Android, the country: HK
+2018-09-27 21:18:53,065 - __main__ - INFO - create amount is 10
+2018-09-27 21:18:53,067 - __main__ - INFO - delt_name:bbt4_gb_s1_android_tz_r06, create_amount:10
+2018-09-27 21:18:55,048 - __main__ - INFO - the platform: Android, the country: GB
+2018-09-27 21:18:58,770 - __main__ - INFO - delt_name:bbt4_de_s1_android_tz_r06, create_amount:100
+2018-09-27 21:18:59,007 - __main__ - INFO - the platform: Android, the country: DE
+2018-09-27 21:19:10,468 - __main__ - INFO - create amount is 10
+2018-09-27 21:19:10,473 - __main__ - INFO - delt_name:cet2_ca_s1_android_tz_r12, create_amount:10
+2018-09-27 21:19:12,828 - __main__ - INFO - the platform: Android, the country: CA
+2018-09-27 21:19:23,522 - __main__ - INFO - create amount is 10
+2018-09-27 21:19:23,524 - __main__ - INFO - delt_name:bbt3_kw_s4_android_tz_r04, create_amount:10
+2018-09-27 21:19:25,493 - __main__ - INFO - the platform: Android, the country: KW
+2018-09-27 21:19:34,072 - __main__ - INFO - create amount is 10
+2018-09-27 21:19:34,074 - __main__ - INFO - delt_name:bbt2_gb_s1_ios_tz_r06, create_amount:10
+2018-09-27 21:19:35,870 - __main__ - INFO - create amount is 1001
+2018-09-27 21:19:35,872 - __main__ - INFO - delt_name:bbt2_bh_s4_ios_tz_r04, create_amount:1000
+2018-09-27 21:19:36,281 - __main__ - INFO - the platform: iOS, the country: GB
+2018-09-27 21:19:37,987 - __main__ - INFO - the platform: iOS, the country: BH
+2018-09-27 21:19:49,303 - __main__ - INFO - create amount is 10
+2018-09-27 21:19:49,305 - __main__ - INFO - delt_name:bbt3_qa_s3_android_tz_r04, create_amount:10
+2018-09-27 21:19:51,245 - __main__ - INFO - the platform: Android, the country: QA
+2018-09-27 21:19:54,317 - __main__ - INFO - create amount is 100
+2018-09-27 21:19:54,320 - __main__ - INFO - delt_name:bet3_hk_s2_android_tz_a00, create_amount:100
+2018-09-27 21:19:56,454 - __main__ - INFO - the platform: Android, the country: HK
+2018-09-27 21:19:58,773 - __main__ - INFO - create amount is 10
+2018-09-27 21:19:58,775 - __main__ - INFO - delt_name:bet3_at_s1_android_tz_r06, create_amount:10
+2018-09-27 21:20:00,756 - __main__ - INFO - the platform: Android, the country: AT
+2018-09-27 21:20:08,503 - __main__ - INFO - delt_name:bbt3_hk_s2_ios_tz_a00, create_amount:100
+2018-09-27 21:20:08,711 - __main__ - INFO - the platform: iOS, the country: HK
+2018-09-27 21:20:10,133 - __main__ - INFO - create amount is 10
+2018-09-27 21:20:10,134 - __main__ - INFO - delt_name:cet1_qa_s3_ios_tz_r04, create_amount:10
+2018-09-27 21:20:11,728 - __main__ - INFO - the platform: iOS, the country: QA
+2018-09-27 21:20:19,544 - __main__ - INFO - create amount is 10
+2018-09-27 21:20:19,545 - __main__ - INFO - delt_name:cet1_de_s1_android_tz_r06, create_amount:10
+2018-09-27 21:20:20,539 - __main__ - INFO - delt_name:bbt4_qa_s3_ios_tz_r04, create_amount:100
+2018-09-27 21:20:20,747 - __main__ - INFO - the platform: iOS, the country: QA
+2018-09-27 21:20:21,865 - __main__ - INFO - the platform: Android, the country: DE
+2018-09-27 21:20:34,544 - __main__ - INFO - create amount is 10
+2018-09-27 21:20:34,546 - __main__ - INFO - delt_name:bet3_hk_s2_ios_tz_a00, create_amount:10
+2018-09-27 21:20:36,514 - __main__ - INFO - the platform: iOS, the country: HK
+2018-09-27 21:20:43,892 - __main__ - INFO - delt_name:bbt2_hk_s2_android_tz_a00, create_amount:10
+2018-09-27 21:20:44,100 - __main__ - INFO - the platform: Android, the country: HK
+2018-09-27 21:20:51,685 - __main__ - INFO - delt_name:bbt2_bh_s4_android_tz_r04, create_amount:10
+2018-09-27 21:20:51,953 - __main__ - INFO - the platform: Android, the country: BH
+2018-09-27 21:21:00,448 - __main__ - INFO - create amount is 10
+2018-09-27 21:21:00,450 - __main__ - INFO - delt_name:cet1_mo_s2_ios_tz_a00, create_amount:10
+2018-09-27 21:21:02,878 - __main__ - INFO - the platform: iOS, the country: MO
+2018-09-27 21:21:05,060 - __main__ - INFO - create amount is 100
+2018-09-27 21:21:05,062 - __main__ - INFO - delt_name:cet1_at_s1_ios_tz_r06, create_amount:100
+2018-09-27 21:21:07,106 - __main__ - INFO - the platform: iOS, the country: AT
+2018-09-27 21:21:11,098 - __main__ - INFO - create amount is 10
+2018-09-27 21:21:11,101 - __main__ - INFO - delt_name:bbt2_om_s3_ios_tz_r04, create_amount:10
+2018-09-27 21:21:12,654 - __main__ - INFO - the platform: iOS, the country: OM
+2018-09-27 21:21:20,875 - __main__ - INFO - create amount is 10
+2018-09-27 21:21:20,876 - __main__ - INFO - delt_name:bet3_bh_s4_ios_tz_r04, create_amount:10
+2018-09-27 21:21:22,980 - __main__ - INFO - the platform: iOS, the country: BH
+2018-09-27 21:21:32,265 - __main__ - INFO - create amount is 10
+2018-09-27 21:21:32,266 - __main__ - INFO - delt_name:bet3_mo_s2_ios_tz_a00, create_amount:10
+2018-09-27 21:21:34,465 - __main__ - INFO - the platform: iOS, the country: MO
+2018-09-27 21:21:43,515 - __main__ - INFO - create amount is 10
+2018-09-27 21:21:43,516 - __main__ - INFO - delt_name:cet2_kr_s1_ios_tz_a00, create_amount:10
+2018-09-27 21:21:45,836 - __main__ - INFO - the platform: iOS, the country: KR
+2018-09-27 21:21:57,327 - __main__ - INFO - create amount is 10
+2018-09-27 21:21:57,329 - __main__ - INFO - delt_name:bbt3_ru_s3_android_tz_r04, create_amount:10
+2018-09-27 21:21:58,469 - __main__ - INFO - create amount is 100
+2018-09-27 21:21:58,472 - __main__ - INFO - delt_name:cet1_ca_s1_ios_tz_r12, create_amount:100
+2018-09-27 21:21:59,246 - __main__ - INFO - the platform: Android, the country: RU
+2018-09-27 21:22:00,664 - __main__ - INFO - the platform: iOS, the country: CA
+2018-09-27 21:22:08,847 - __main__ - INFO - create amount is 11
+2018-09-27 21:22:08,849 - __main__ - INFO - delt_name:cet2_kw_s4_android_tz_r04, create_amount:10
+2018-09-27 21:22:10,699 - __main__ - INFO - the platform: Android, the country: KW
+2018-09-27 21:22:18,775 - __main__ - INFO - create amount is 10
+2018-09-27 21:22:18,776 - __main__ - INFO - delt_name:bbt4_bh_s4_android_tz_r04, create_amount:10
+2018-09-27 21:22:20,954 - __main__ - INFO - the platform: Android, the country: BH
+2018-09-27 21:22:29,226 - __main__ - INFO - create amount is 10
+2018-09-27 21:22:29,227 - __main__ - INFO - delt_name:bet3_ca_s1_ios_tz_r12, create_amount:10
+2018-09-27 21:22:31,283 - __main__ - INFO - the platform: iOS, the country: CA
+2018-09-27 21:22:41,583 - __main__ - INFO - create amount is 10
+2018-09-27 21:22:41,584 - __main__ - INFO - delt_name:bbt2_om_s3_android_tz_r04, create_amount:10
+2018-09-27 21:22:43,937 - __main__ - INFO - the platform: Android, the country: OM
+2018-09-27 21:22:48,997 - __main__ - INFO - create amount is 100
+2018-09-27 21:22:49,000 - __main__ - INFO - delt_name:cet2_om_s3_android_tz_r04, create_amount:100
+2018-09-27 21:22:51,352 - __main__ - INFO - the platform: Android, the country: OM
+2018-09-27 21:22:53,693 - __main__ - INFO - create amount is 10
+2018-09-27 21:22:53,694 - __main__ - INFO - delt_name:cet1_us_s2_ios_tz_r12, create_amount:10
+2018-09-27 21:22:55,686 - __main__ - INFO - the platform: iOS, the country: US
+2018-09-27 21:23:13,732 - __main__ - INFO - create amount is 10
+2018-09-27 21:23:13,735 - __main__ - INFO - delt_name:bbt4_de_s1_ios_tz_r06, create_amount:10
+2018-09-27 21:23:15,848 - __main__ - INFO - the platform: iOS, the country: DE
+2018-09-27 21:23:28,915 - __main__ - INFO - create amount is 10
+2018-09-27 21:23:28,917 - __main__ - INFO - delt_name:cet2_ae_s3_ios_tz_r04, create_amount:10
+2018-09-27 21:23:31,184 - __main__ - INFO - the platform: iOS, the country: AE
+2018-09-27 21:23:36,624 - __main__ - INFO - create amount is 100
+2018-09-27 21:23:36,625 - __main__ - INFO - delt_name:cet1_sa_s3_android_tz_r04, create_amount:100
+2018-09-27 21:23:38,676 - __main__ - INFO - the platform: Android, the country: SA
+2018-09-27 21:23:38,964 - __main__ - INFO - create amount is 10
+2018-09-27 21:23:38,965 - __main__ - INFO - delt_name:cet2_qa_s3_ios_tz_r04, create_amount:10
+2018-09-27 21:23:40,750 - __main__ - INFO - the platform: iOS, the country: QA
+2018-09-27 21:23:49,225 - __main__ - INFO - create amount is 10
+2018-09-27 21:23:49,226 - __main__ - INFO - delt_name:cet1_tw_s4_android_tz_a00, create_amount:10
+2018-09-27 21:23:51,154 - __main__ - INFO - the platform: Android, the country: TW
+2018-09-27 21:24:02,476 - __main__ - INFO - create amount is 10
+2018-09-27 21:24:02,477 - __main__ - INFO - delt_name:bbt2_qa_s3_android_tz_r04, create_amount:10
+2018-09-27 21:24:04,380 - __main__ - INFO - the platform: Android, the country: QA
+2018-09-27 21:24:12,477 - __main__ - INFO - create amount is 10
+2018-09-27 21:24:12,479 - __main__ - INFO - delt_name:cet2_at_s1_android_tz_r06, create_amount:10
+2018-09-27 21:24:14,808 - __main__ - INFO - the platform: Android, the country: AT
+2018-09-27 21:24:24,958 - __main__ - INFO - create amount is 10
+2018-09-27 21:24:24,960 - __main__ - INFO - delt_name:bbt2_bh_s4_ios_tz_r04, create_amount:10
+2018-09-27 21:24:27,114 - __main__ - INFO - the platform: iOS, the country: BH
+2018-09-27 21:24:31,907 - __main__ - INFO - create amount is 100
+2018-09-27 21:24:31,908 - __main__ - INFO - delt_name:bet3_gb_s1_android_tz_r06, create_amount:100
+2018-09-27 21:24:34,052 - __main__ - INFO - the platform: Android, the country: GB
+2018-09-27 21:24:35,385 - __main__ - INFO - create amount is 10
+2018-09-27 21:24:35,386 - __main__ - INFO - delt_name:bbt2_no_s2_android_tz_r06, create_amount:10
+2018-09-27 21:24:37,439 - __main__ - INFO - the platform: Android, the country: NO
+2018-09-27 21:24:47,294 - __main__ - INFO - create amount is 10
+2018-09-27 21:24:47,297 - __main__ - INFO - delt_name:bbt4_fr_s1_ios_tz_r06, create_amount:10
+2018-09-27 21:24:49,589 - __main__ - INFO - the platform: iOS, the country: FR
+2018-09-27 21:25:00,480 - __main__ - INFO - create amount is 10
+2018-09-27 21:25:00,482 - __main__ - INFO - delt_name:cet2_kr_s1_android_tz_a00, create_amount:10
+2018-09-27 21:25:02,543 - __main__ - INFO - the platform: Android, the country: KR
+2018-09-27 21:25:13,155 - __main__ - INFO - create amount is 11
+2018-09-27 21:25:13,158 - __main__ - INFO - delt_name:cet1_kw_s4_ios_tz_r04, create_amount:10
+2018-09-27 21:25:14,875 - __main__ - INFO - the platform: iOS, the country: KW
+2018-09-27 21:25:16,455 - __main__ - INFO - create amount is 1000
+2018-09-27 21:25:16,457 - __main__ - INFO - delt_name:bet3_om_s3_ios_tz_r04, create_amount:1000
+2018-09-27 21:25:19,108 - __main__ - INFO - the platform: iOS, the country: OM
+2018-09-27 21:25:22,812 - __main__ - INFO - create amount is 10
+2018-09-27 21:25:22,813 - __main__ - INFO - delt_name:bbt4_us_s2_android_tz_r12, create_amount:10
+2018-09-27 21:25:25,056 - __main__ - INFO - the platform: Android, the country: US
+2018-09-27 21:25:28,559 - __main__ - INFO - create amount is 100
+2018-09-27 21:25:28,562 - __main__ - INFO - delt_name:cet1_sa_s3_ios_tz_r04, create_amount:100
+2018-09-27 21:25:30,992 - __main__ - INFO - the platform: iOS, the country: SA
+2018-09-27 21:25:42,489 - __main__ - INFO - create amount is 11
+2018-09-27 21:25:42,493 - __main__ - INFO - delt_name:cet1_au_s2_android_tz_a02, create_amount:10
+2018-09-27 21:25:44,522 - __main__ - INFO - the platform: Android, the country: AU
+2018-09-27 21:25:54,805 - __main__ - INFO - create amount is 10
+2018-09-27 21:25:54,807 - __main__ - INFO - delt_name:bet3_au_s2_android_tz_a02, create_amount:10
+2018-09-27 21:25:56,697 - __main__ - INFO - the platform: Android, the country: AU
+2018-09-27 21:26:07,114 - __main__ - INFO - create amount is 10
+2018-09-27 21:26:07,117 - __main__ - INFO - delt_name:bet3_bh_s4_android_tz_r04, create_amount:10
+2018-09-27 21:26:09,392 - __main__ - INFO - the platform: Android, the country: BH
+2018-09-27 21:26:15,537 - __main__ - INFO - create amount is 100
+2018-09-27 21:26:15,539 - __main__ - INFO - delt_name:bbt2_sg_s1_ios_tz_a00, create_amount:100
+2018-09-27 21:26:17,203 - __main__ - INFO - create amount is 10
+2018-09-27 21:26:17,204 - __main__ - INFO - delt_name:bbt2_mo_s2_android_tz_a00, create_amount:10
+2018-09-27 21:26:17,547 - __main__ - INFO - the platform: iOS, the country: SG
+2018-09-27 21:26:19,124 - __main__ - INFO - the platform: Android, the country: MO
+2018-09-27 21:26:27,534 - __main__ - INFO - create amount is 10
+2018-09-27 21:26:27,535 - __main__ - INFO - delt_name:bbt2_kr_s1_android_tz_a00, create_amount:10
+2018-09-27 21:26:29,569 - __main__ - INFO - the platform: Android, the country: KR
+2018-09-27 21:26:41,226 - __main__ - INFO - create amount is 10
+2018-09-27 21:26:41,228 - __main__ - INFO - delt_name:bbt3_om_s3_ios_tz_r04, create_amount:10
+2018-09-27 21:26:43,701 - __main__ - INFO - the platform: iOS, the country: OM
+2018-09-27 21:26:52,988 - __main__ - INFO - create amount is 10
+2018-09-27 21:26:52,990 - __main__ - INFO - delt_name:cet2_bh_s4_ios_tz_r04, create_amount:10
+2018-09-27 21:26:55,065 - __main__ - INFO - the platform: iOS, the country: BH
+2018-09-27 21:27:03,394 - __main__ - INFO - create amount is 10
+2018-09-27 21:27:03,396 - __main__ - INFO - delt_name:cet1_au_s2_ios_tz_a02, create_amount:10
+2018-09-27 21:27:05,627 - __main__ - INFO - the platform: iOS, the country: AU
+2018-09-27 21:27:07,433 - __main__ - INFO - create amount is 100
+2018-09-27 21:27:07,435 - __main__ - INFO - delt_name:bbt2_de_s1_android_tz_r06, create_amount:100
+2018-09-27 21:27:09,707 - __main__ - INFO - the platform: Android, the country: DE
+2018-09-27 21:27:16,080 - __main__ - INFO - create amount is 10
+2018-09-27 21:27:16,082 - __main__ - INFO - delt_name:bbt3_us_s2_ios_tz_r12, create_amount:10
+2018-09-27 21:27:18,410 - __main__ - INFO - the platform: iOS, the country: US
+2018-09-27 21:27:35,529 - __main__ - INFO - create amount is 10
+2018-09-27 21:27:35,532 - __main__ - INFO - delt_name:cet1_kr_s1_android_tz_a00, create_amount:10
+2018-09-27 21:27:37,286 - __main__ - INFO - the platform: Android, the country: KR
+2018-09-27 21:27:47,844 - __main__ - INFO - create amount is 10
+2018-09-27 21:27:47,848 - __main__ - INFO - delt_name:bet3_tw_s4_ios_tz_a00, create_amount:10
+2018-09-27 21:27:50,056 - __main__ - INFO - the platform: iOS, the country: TW
+2018-09-27 21:28:00,869 - __main__ - INFO - create amount is 10
+2018-09-27 21:28:01,830 - __main__ - INFO - create amount is 100
+2018-09-27 21:35:32,596 - __main__ - INFO - delt_name:bbt2_kr_s1_ios_tz_a00, create_amount:300
+2018-09-27 21:35:32,920 - __main__ - INFO - the platform: iOS, the country: KR
+2018-09-27 21:37:32,816 - __main__ - INFO - create amount is 300
+2018-09-27 21:37:32,819 - __main__ - INFO - delt_name:bet3_ru_s3_ios_tz_r04, create_amount:300
+2018-09-27 21:37:34,966 - __main__ - INFO - the platform: iOS, the country: RU
+2018-09-27 21:39:22,282 - __main__ - INFO - create amount is 300
+2018-09-27 21:39:22,284 - __main__ - INFO - delt_name:cet2_ru_s3_ios_tz_r04, create_amount:300
+2018-09-27 21:39:24,430 - __main__ - INFO - the platform: iOS, the country: RU
+2018-09-27 21:41:13,873 - __main__ - INFO - create amount is 300
+2018-09-27 21:41:13,878 - __main__ - INFO - delt_name:cet1_at_s1_android_tz_r06, create_amount:300
+2018-09-27 21:41:16,561 - __main__ - INFO - the platform: Android, the country: AT
+2018-09-27 21:43:13,893 - __main__ - INFO - create amount is 300
+2018-09-27 21:43:13,895 - __main__ - INFO - delt_name:bbt4_gb_s1_ios_tz_r06, create_amount:300
+2018-09-27 21:43:16,487 - __main__ - INFO - the platform: iOS, the country: GB
+2018-09-27 21:45:13,926 - __main__ - INFO - create amount is 300
+2018-09-27 21:45:13,932 - __main__ - INFO - delt_name:bet3_tw_s4_ios_tz_a00, create_amount:300
+2018-09-27 21:45:16,280 - __main__ - INFO - the platform: iOS, the country: TW
+2018-09-27 21:47:05,542 - __main__ - INFO - create amount is 300
+2018-09-27 21:47:05,544 - __main__ - INFO - delt_name:bbt3_bh_s4_android_tz_r04, create_amount:300
+2018-09-27 21:47:08,102 - __main__ - INFO - the platform: Android, the country: BH
+2018-09-27 21:48:53,472 - __main__ - INFO - create amount is 300
+2018-09-27 21:48:53,474 - __main__ - INFO - delt_name:cet2_jp_s2_ios_tz_a00, create_amount:300
+2018-09-27 21:48:55,724 - __main__ - INFO - the platform: iOS, the country: JP
+2018-09-27 21:50:41,299 - __main__ - INFO - create amount is 300
+2018-09-27 21:50:41,301 - __main__ - INFO - delt_name:bbt2_de_s1_android_tz_r06, create_amount:300
+2018-09-27 21:50:43,654 - __main__ - INFO - the platform: Android, the country: DE
+2018-09-27 21:52:33,522 - __main__ - INFO - create amount is 300
+2018-09-27 21:52:33,525 - __main__ - INFO - delt_name:bbt3_fr_s1_android_tz_r06, create_amount:300
+2018-09-27 21:52:35,685 - __main__ - INFO - the platform: Android, the country: FR
+2018-09-27 21:54:21,645 - __main__ - INFO - create amount is 300
+2018-09-27 21:54:21,648 - __main__ - INFO - delt_name:bet3_ae_s3_android_tz_r04, create_amount:300
+2018-09-27 21:54:23,815 - __main__ - INFO - the platform: Android, the country: AE
+2018-09-27 21:56:06,626 - __main__ - INFO - create amount is 300
+2018-09-27 21:56:06,628 - __main__ - INFO - delt_name:bbt4_qa_s3_android_tz_r04, create_amount:300
+2018-09-27 21:56:08,367 - __main__ - INFO - the platform: Android, the country: QA
+2018-09-27 21:57:52,220 - __main__ - INFO - create amount is 300
+2018-09-27 21:57:52,224 - __main__ - INFO - delt_name:bbt3_mo_s2_android_tz_a00, create_amount:300
+2018-09-27 21:57:54,456 - __main__ - INFO - the platform: Android, the country: MO
+2018-09-27 22:00:01,246 - __main__ - INFO - create amount is 300
+2018-09-27 22:00:01,248 - __main__ - INFO - delt_name:bet3_fr_s1_android_tz_r06, create_amount:300
+2018-09-27 22:00:03,698 - __main__ - INFO - the platform: Android, the country: FR
+2018-09-27 22:02:38,826 - __main__ - INFO - create amount is 300
+2018-09-27 22:02:38,828 - __main__ - INFO - delt_name:bbt3_no_s2_android_tz_r06, create_amount:300
+2018-09-27 22:02:40,465 - __main__ - INFO - the platform: Android, the country: NO
+2018-09-27 22:04:59,335 - __main__ - INFO - create amount is 300
+2018-09-27 22:04:59,338 - __main__ - INFO - delt_name:bbt2_fr_s1_android_tz_r06, create_amount:300
+2018-09-27 22:05:01,474 - __main__ - INFO - the platform: Android, the country: FR
+2018-09-27 22:07:18,891 - __main__ - INFO - create amount is 300
+2018-09-27 22:07:18,896 - __main__ - INFO - delt_name:cet2_fr_s1_ios_tz_r06, create_amount:300
+2018-09-27 22:07:21,349 - __main__ - INFO - the platform: iOS, the country: FR
+2018-09-27 22:09:33,660 - __main__ - INFO - create amount is 300
+2018-09-27 22:09:33,664 - __main__ - INFO - delt_name:cet1_no_s2_ios_tz_r06, create_amount:300
+2018-09-27 22:09:36,211 - __main__ - INFO - the platform: iOS, the country: NO
+2018-09-27 22:11:40,113 - __main__ - INFO - create amount is 300
+2018-09-27 22:11:40,116 - __main__ - INFO - delt_name:cet2_kw_s4_android_tz_r04, create_amount:300
+2018-09-27 22:11:42,778 - __main__ - INFO - the platform: Android, the country: KW
+2018-09-27 22:13:52,008 - __main__ - INFO - create amount is 300
+2018-09-27 22:13:52,011 - __main__ - INFO - delt_name:cet2_sa_s3_android_tz_r04, create_amount:300
+2018-09-27 22:13:54,261 - __main__ - INFO - the platform: Android, the country: SA
+2018-09-27 22:15:54,891 - __main__ - INFO - create amount is 300
+2018-09-27 22:15:54,893 - __main__ - INFO - delt_name:bet3_mo_s2_android_tz_a00, create_amount:300
+2018-09-27 22:15:57,449 - __main__ - INFO - the platform: Android, the country: MO
+2018-09-27 22:18:04,432 - __main__ - INFO - create amount is 300
+2018-09-27 22:18:04,436 - __main__ - INFO - delt_name:bbt4_mo_s2_ios_tz_a00, create_amount:300
+2018-09-27 22:18:06,576 - __main__ - INFO - the platform: iOS, the country: MO
+2018-09-27 22:20:09,150 - __main__ - INFO - create amount is 300
+2018-09-27 22:20:09,152 - __main__ - INFO - delt_name:cet2_de_s1_android_tz_r06, create_amount:300
+2018-09-27 22:20:10,786 - __main__ - INFO - the platform: Android, the country: DE
+2018-09-27 22:22:23,396 - __main__ - INFO - create amount is 300
+2018-09-27 22:22:23,403 - __main__ - INFO - delt_name:bbt2_sg_s1_ios_tz_a00, create_amount:300
+2018-09-27 22:22:26,059 - __main__ - INFO - the platform: iOS, the country: SG
+2018-09-27 22:24:38,053 - __main__ - INFO - create amount is 300
+2018-09-27 22:24:38,058 - __main__ - INFO - delt_name:bbt3_mo_s2_ios_tz_a00, create_amount:300
+2018-09-27 22:24:40,307 - __main__ - INFO - the platform: iOS, the country: MO
+2018-09-27 22:26:40,014 - __main__ - INFO - create amount is 300
+2018-09-27 22:26:40,017 - __main__ - INFO - delt_name:bbt4_om_s3_android_tz_r04, create_amount:300
+2018-09-27 22:26:42,368 - __main__ - INFO - the platform: Android, the country: OM
+2018-09-27 22:28:42,893 - __main__ - INFO - create amount is 300
+2018-09-27 22:28:42,896 - __main__ - INFO - delt_name:cet1_kr_s1_android_tz_a00, create_amount:300
+2018-09-27 22:28:45,147 - __main__ - INFO - the platform: Android, the country: KR
+2018-09-27 22:30:54,172 - __main__ - INFO - create amount is 300
+2018-09-27 22:30:54,178 - __main__ - INFO - delt_name:cet2_no_s2_android_tz_r06, create_amount:300
+2018-09-27 22:30:56,425 - __main__ - INFO - the platform: Android, the country: NO
+2018-09-27 22:33:03,825 - __main__ - INFO - create amount is 300
+2018-09-27 22:33:03,829 - __main__ - INFO - delt_name:bet3_hk_s2_android_tz_a00, create_amount:300
+2018-09-27 22:33:06,077 - __main__ - INFO - the platform: Android, the country: HK
+2018-09-27 22:33:16,757 - __main__ - INFO - delt_name:bbt4_at_s1_ios_tz_r06, create_amount:300
+2018-09-27 22:33:17,019 - __main__ - INFO - the platform: iOS, the country: AT
+2018-09-27 22:35:17,765 - __main__ - INFO - create amount is 300
+2018-09-27 22:35:17,769 - __main__ - INFO - delt_name:cet2_qa_s3_android_tz_r04, create_amount:300
+2018-09-27 22:35:20,223 - __main__ - INFO - the platform: Android, the country: QA
+2018-09-27 22:37:37,956 - __main__ - INFO - create amount is 300
+2018-09-27 22:37:37,961 - __main__ - INFO - delt_name:bbt2_qa_s3_ios_tz_r04, create_amount:300
+2018-09-27 22:37:40,599 - __main__ - INFO - the platform: iOS, the country: QA
+2018-09-27 22:39:42,880 - __main__ - INFO - create amount is 300
+2018-09-27 22:39:42,882 - __main__ - INFO - delt_name:cet1_no_s2_android_tz_r06, create_amount:300
+2018-09-27 22:39:45,441 - __main__ - INFO - the platform: Android, the country: NO
+2018-09-27 22:41:55,489 - __main__ - INFO - create amount is 300
+2018-09-27 22:41:55,494 - __main__ - INFO - delt_name:cet2_jp_s2_android_tz_a00, create_amount:300
+2018-09-27 22:41:57,742 - __main__ - INFO - the platform: Android, the country: JP
+2018-09-27 22:44:12,604 - __main__ - INFO - create amount is 300
+2018-09-27 22:44:12,608 - __main__ - INFO - delt_name:bbt4_ru_s3_ios_tz_r04, create_amount:300
+2018-09-27 22:44:14,943 - __main__ - INFO - the platform: iOS, the country: RU
+2018-09-27 22:46:20,281 - __main__ - INFO - create amount is 300
+2018-09-27 22:46:20,284 - __main__ - INFO - delt_name:cet1_fr_s1_android_tz_r06, create_amount:300
+2018-09-27 22:46:22,535 - __main__ - INFO - the platform: Android, the country: FR
+2018-09-27 22:48:37,806 - __main__ - INFO - create amount is 300
+2018-09-27 22:48:37,810 - __main__ - INFO - delt_name:bbt2_ru_s3_ios_tz_r04, create_amount:300
+2018-09-27 22:48:40,163 - __main__ - INFO - the platform: iOS, the country: RU
+2018-09-27 22:50:45,090 - __main__ - INFO - create amount is 300
+2018-09-27 22:50:45,094 - __main__ - INFO - delt_name:cet2_om_s3_ios_tz_r04, create_amount:300
+2018-09-27 22:50:47,753 - __main__ - INFO - the platform: iOS, the country: OM
+2018-09-27 22:52:45,104 - __main__ - INFO - create amount is 300
+2018-09-27 22:52:45,107 - __main__ - INFO - delt_name:bet3_gb_s1_android_tz_r06, create_amount:300
+2018-09-27 22:52:47,561 - __main__ - INFO - the platform: Android, the country: GB
+2018-09-27 22:55:09,898 - __main__ - INFO - create amount is 300
+2018-09-27 22:55:09,904 - __main__ - INFO - delt_name:bbt2_kw_s4_ios_tz_r04, create_amount:300
+2018-09-27 22:55:12,166 - __main__ - INFO - the platform: iOS, the country: KW
+2018-09-27 22:57:12,445 - __main__ - INFO - create amount is 300
+2018-09-27 22:57:12,448 - __main__ - INFO - delt_name:bbt3_sg_s1_ios_tz_a00, create_amount:300
+2018-09-27 22:57:14,842 - __main__ - INFO - the platform: iOS, the country: SG
+2018-09-27 22:59:25,710 - __main__ - INFO - create amount is 300
+2018-09-27 22:59:25,716 - __main__ - INFO - delt_name:bbt3_hk_s2_android_tz_a00, create_amount:300
+2018-09-27 22:59:28,338 - __main__ - INFO - the platform: Android, the country: HK
+2018-09-27 22:59:42,421 - __main__ - INFO - delt_name:bbt4_us_s2_ios_tz_r12, create_amount:300
+2018-09-27 22:59:42,708 - __main__ - INFO - the platform: iOS, the country: US
+2018-09-27 23:02:10,576 - __main__ - INFO - create amount is 300
+2018-09-27 23:02:10,587 - __main__ - INFO - delt_name:bet3_kr_s1_android_tz_a00, create_amount:300
+2018-09-27 23:02:12,726 - __main__ - INFO - the platform: Android, the country: KR
+2018-09-27 23:04:22,988 - __main__ - INFO - create amount is 300
+2018-09-27 23:04:22,995 - __main__ - INFO - delt_name:cet1_ca_s1_ios_tz_r12, create_amount:300
+2018-09-27 23:04:25,438 - __main__ - INFO - the platform: iOS, the country: CA
+2018-09-27 23:06:42,142 - __main__ - INFO - create amount is 300
+2018-09-27 23:06:42,144 - __main__ - INFO - delt_name:bbt4_jp_s2_ios_tz_a00, create_amount:300
+2018-09-27 23:06:44,686 - __main__ - INFO - the platform: iOS, the country: JP
+2018-09-27 23:08:50,552 - __main__ - INFO - create amount is 300
+2018-09-27 23:08:50,556 - __main__ - INFO - delt_name:bbt3_at_s1_ios_tz_r06, create_amount:300
+2018-09-27 23:08:52,789 - __main__ - INFO - the platform: iOS, the country: AT
+2018-09-27 23:10:59,500 - __main__ - INFO - create amount is 300
+2018-09-27 23:10:59,503 - __main__ - INFO - delt_name:bbt4_au_s2_android_tz_a02, create_amount:300
+2018-09-27 23:11:01,932 - __main__ - INFO - the platform: Android, the country: AU
+2018-09-27 23:13:14,237 - __main__ - INFO - create amount is 300
+2018-09-27 23:13:14,242 - __main__ - INFO - delt_name:bet3_qa_s3_ios_tz_r04, create_amount:300
+2018-09-27 23:13:16,589 - __main__ - INFO - the platform: iOS, the country: QA
+2018-09-27 23:15:22,951 - __main__ - INFO - create amount is 300
+2018-09-27 23:15:22,956 - __main__ - INFO - delt_name:bbt4_gb_s1_android_tz_r06, create_amount:300
+2018-09-27 23:15:25,716 - __main__ - INFO - the platform: Android, the country: GB
+2018-09-27 23:17:40,768 - __main__ - INFO - create amount is 300
+2018-09-27 23:17:40,771 - __main__ - INFO - delt_name:bbt3_de_s1_ios_tz_r06, create_amount:300
+2018-09-27 23:17:43,409 - __main__ - INFO - the platform: iOS, the country: DE
+2018-09-27 23:20:00,425 - __main__ - INFO - create amount is 300
+2018-09-27 23:20:00,430 - __main__ - INFO - delt_name:bbt3_tw_s4_android_tz_a00, create_amount:300
+2018-09-27 23:20:03,008 - __main__ - INFO - the platform: Android, the country: TW
+2018-09-27 23:22:23,955 - __main__ - INFO - create amount is 300
+2018-09-27 23:22:23,962 - __main__ - INFO - delt_name:bet3_ca_s1_android_tz_r12, create_amount:300
+2018-09-27 23:22:26,174 - __main__ - INFO - the platform: Android, the country: CA
+2018-09-27 23:24:36,427 - __main__ - INFO - create amount is 300
+2018-09-27 23:24:36,429 - __main__ - INFO - delt_name:bbt3_ca_s1_android_tz_r12, create_amount:300
+2018-09-27 23:24:38,781 - __main__ - INFO - the platform: Android, the country: CA
+2018-09-27 23:26:50,376 - __main__ - INFO - create amount is 300
+2018-09-27 23:26:50,381 - __main__ - INFO - delt_name:cet2_at_s1_android_tz_r06, create_amount:300
+2018-09-27 23:26:52,707 - __main__ - INFO - the platform: Android, the country: AT
+2018-09-27 23:29:02,875 - __main__ - INFO - create amount is 300
+2018-09-27 23:29:02,878 - __main__ - INFO - delt_name:bet3_no_s2_android_tz_r06, create_amount:300
+2018-09-27 23:29:05,126 - __main__ - INFO - the platform: Android, the country: NO
+2018-09-27 23:31:16,694 - __main__ - INFO - create amount is 300
+2018-09-27 23:31:16,696 - __main__ - INFO - delt_name:cet2_mo_s2_ios_tz_a00, create_amount:300
+2018-09-27 23:31:18,746 - __main__ - INFO - the platform: iOS, the country: MO
+2018-09-27 23:33:15,173 - __main__ - INFO - create amount is 300
+2018-09-27 23:33:15,178 - __main__ - INFO - delt_name:cet2_de_s1_ios_tz_r06, create_amount:300
+2018-09-27 23:33:17,834 - __main__ - INFO - the platform: iOS, the country: DE
+2018-09-27 23:35:31,878 - __main__ - INFO - create amount is 300
+2018-09-27 23:35:31,885 - __main__ - INFO - delt_name:bet3_ca_s1_ios_tz_r12, create_amount:300
+2018-09-27 23:35:34,237 - __main__ - INFO - the platform: iOS, the country: CA
+2018-09-27 23:37:41,201 - __main__ - INFO - create amount is 300
+2018-09-27 23:37:41,206 - __main__ - INFO - delt_name:bbt2_de_s1_ios_tz_r06, create_amount:300
+2018-09-27 23:37:43,332 - __main__ - INFO - the platform: iOS, the country: DE
+2018-09-27 23:39:59,450 - __main__ - INFO - create amount is 300
+2018-09-27 23:39:59,456 - __main__ - INFO - delt_name:bbt2_sa_s3_ios_tz_r04, create_amount:300
+2018-09-27 23:40:01,909 - __main__ - INFO - the platform: iOS, the country: SA
+2018-09-27 23:42:01,820 - __main__ - INFO - create amount is 300
+2018-09-27 23:42:01,822 - __main__ - INFO - delt_name:bbt4_de_s1_android_tz_r06, create_amount:300
+2018-09-27 23:42:04,206 - __main__ - INFO - the platform: Android, the country: DE
+2018-09-27 23:44:24,669 - __main__ - INFO - create amount is 300
+2018-09-27 23:44:24,672 - __main__ - INFO - delt_name:bbt4_sa_s3_ios_tz_r04, create_amount:300
+2018-09-27 23:44:27,023 - __main__ - INFO - the platform: iOS, the country: SA
+2018-09-27 23:46:24,887 - __main__ - INFO - create amount is 300
+2018-09-27 23:46:24,891 - __main__ - INFO - delt_name:bbt2_at_s1_ios_tz_r06, create_amount:300
+2018-09-27 23:46:27,345 - __main__ - INFO - the platform: iOS, the country: AT
+2018-09-27 23:48:35,653 - __main__ - INFO - create amount is 300
+2018-09-27 23:48:35,656 - __main__ - INFO - delt_name:bbt2_fr_s1_ios_tz_r06, create_amount:300
+2018-09-27 23:48:37,905 - __main__ - INFO - the platform: iOS, the country: FR
+2018-09-27 23:50:46,844 - __main__ - INFO - create amount is 300
+2018-09-27 23:50:46,850 - __main__ - INFO - delt_name:bet3_tw_s4_android_tz_a00, create_amount:300
+2018-09-27 23:50:49,080 - __main__ - INFO - the platform: Android, the country: TW
+2018-09-27 23:52:58,744 - __main__ - INFO - create amount is 300
+2018-09-27 23:52:58,749 - __main__ - INFO - delt_name:bbt4_jp_s2_android_tz_a00, create_amount:300
+2018-09-27 23:53:00,869 - __main__ - INFO - the platform: Android, the country: JP
+2018-09-27 23:55:08,050 - __main__ - INFO - create amount is 300
+2018-09-27 23:55:08,051 - __main__ - INFO - delt_name:bbt3_sa_s3_android_tz_r04, create_amount:300
+2018-09-27 23:55:10,612 - __main__ - INFO - the platform: Android, the country: SA
+2018-09-27 23:57:08,576 - __main__ - INFO - create amount is 300
+2018-09-27 23:57:08,580 - __main__ - INFO - delt_name:bet3_fr_s1_ios_tz_r06, create_amount:300
+2018-09-27 23:57:11,340 - __main__ - INFO - the platform: iOS, the country: FR
+2018-09-27 23:59:21,492 - __main__ - INFO - create amount is 300
+2018-09-27 23:59:21,496 - __main__ - INFO - delt_name:bbt4_sg_s1_ios_tz_a00, create_amount:300
+2018-09-27 23:59:23,644 - __main__ - INFO - the platform: iOS, the country: SG
+2018-09-28 00:01:37,892 - __main__ - INFO - create amount is 300
+2018-09-28 00:01:37,896 - __main__ - INFO - delt_name:cet1_ru_s3_android_tz_r04, create_amount:300
+2018-09-28 00:01:40,145 - __main__ - INFO - the platform: Android, the country: RU
+2018-09-28 00:03:36,992 - __main__ - INFO - create amount is 301
+2018-09-28 00:03:36,995 - __main__ - INFO - delt_name:bbt3_ca_s1_ios_tz_r12, create_amount:300
+2018-09-28 00:03:39,236 - __main__ - INFO - the platform: iOS, the country: CA
+2018-09-28 00:05:42,371 - __main__ - INFO - create amount is 300
+2018-09-28 00:05:42,374 - __main__ - INFO - delt_name:bbt4_ae_s3_ios_tz_r04, create_amount:300
+2018-09-28 00:05:44,882 - __main__ - INFO - the platform: iOS, the country: AE
+2018-09-28 00:07:40,901 - __main__ - INFO - create amount is 300
+2018-09-28 00:07:40,904 - __main__ - INFO - delt_name:cet1_hk_s2_ios_tz_a00, create_amount:300
+2018-09-28 00:07:43,358 - __main__ - INFO - the platform: iOS, the country: HK
+2018-09-28 00:07:52,397 - __main__ - INFO - delt_name:bbt3_tw_s4_ios_tz_a00, create_amount:300
+2018-09-28 00:07:52,606 - __main__ - INFO - the platform: iOS, the country: TW
+2018-09-28 00:09:56,069 - __main__ - INFO - create amount is 300
+2018-09-28 00:09:56,071 - __main__ - INFO - delt_name:bbt3_gb_s1_ios_tz_r06, create_amount:300
+2018-09-28 00:09:58,634 - __main__ - INFO - the platform: iOS, the country: GB
+2018-09-28 00:12:14,618 - __main__ - INFO - create amount is 300
+2018-09-28 00:12:14,623 - __main__ - INFO - delt_name:bbt3_kr_s1_ios_tz_a00, create_amount:300
+2018-09-28 00:12:17,177 - __main__ - INFO - the platform: iOS, the country: KR
+2018-09-28 00:14:24,667 - __main__ - INFO - create amount is 300
+2018-09-28 00:14:24,670 - __main__ - INFO - delt_name:bet3_jp_s2_ios_tz_a00, create_amount:300
+2018-09-28 00:14:27,021 - __main__ - INFO - the platform: iOS, the country: JP
+2018-09-28 00:16:32,463 - __main__ - INFO - create amount is 300
+2018-09-28 00:16:32,466 - __main__ - INFO - delt_name:bbt4_at_s1_android_tz_r06, create_amount:300
+2018-09-28 00:16:35,024 - __main__ - INFO - the platform: Android, the country: AT
+2018-09-28 00:18:34,828 - __main__ - INFO - create amount is 300
+2018-09-28 00:18:34,832 - __main__ - INFO - delt_name:bbt4_hk_s2_android_tz_a00, create_amount:300
+2018-09-28 00:18:37,392 - __main__ - INFO - the platform: Android, the country: HK
+2018-09-28 00:18:46,749 - __main__ - INFO - delt_name:cet1_us_s2_ios_tz_r12, create_amount:300
+2018-09-28 00:18:47,017 - __main__ - INFO - the platform: iOS, the country: US
+2018-09-28 00:21:08,228 - __main__ - INFO - create amount is 300
+2018-09-28 00:21:08,237 - __main__ - INFO - delt_name:bbt3_jp_s2_ios_tz_a00, create_amount:300
+2018-09-28 00:21:10,889 - __main__ - INFO - the platform: iOS, the country: JP
+2018-09-28 00:23:16,433 - __main__ - INFO - create amount is 300
+2018-09-28 00:23:16,438 - __main__ - INFO - delt_name:cet2_ca_s1_android_tz_r12, create_amount:300
+2018-09-28 00:23:18,891 - __main__ - INFO - the platform: Android, the country: CA
+2018-09-28 00:25:23,308 - __main__ - INFO - create amount is 300
+2018-09-28 00:25:23,312 - __main__ - INFO - delt_name:bbt4_kw_s4_android_tz_r04, create_amount:300
+2018-09-28 00:25:25,473 - __main__ - INFO - the platform: Android, the country: KW
+2018-09-28 00:27:18,406 - __main__ - INFO - create amount is 300
+2018-09-28 00:27:18,408 - __main__ - INFO - delt_name:cet1_kw_s4_android_tz_r04, create_amount:300
+2018-09-28 00:27:20,658 - __main__ - INFO - the platform: Android, the country: KW
+2018-09-28 00:29:20,161 - __main__ - INFO - create amount is 300
+2018-09-28 00:29:20,162 - __main__ - INFO - delt_name:cet2_kw_s4_ios_tz_r04, create_amount:300
+2018-09-28 00:29:22,413 - __main__ - INFO - the platform: iOS, the country: KW
+2018-09-28 00:31:17,307 - __main__ - INFO - create amount is 300
+2018-09-28 00:31:17,309 - __main__ - INFO - delt_name:bbt2_om_s3_android_tz_r04, create_amount:300
+2018-09-28 00:31:19,968 - __main__ - INFO - the platform: Android, the country: OM
+2018-09-28 00:33:22,338 - __main__ - INFO - create amount is 300
+2018-09-28 00:33:22,341 - __main__ - INFO - delt_name:bbt4_mo_s2_android_tz_a00, create_amount:300
+2018-09-28 00:33:24,795 - __main__ - INFO - the platform: Android, the country: MO
+2018-09-28 00:35:24,016 - __main__ - INFO - create amount is 300
+2018-09-28 00:35:24,018 - __main__ - INFO - delt_name:bbt2_gb_s1_ios_tz_r06, create_amount:300
+2018-09-28 00:35:26,755 - __main__ - INFO - the platform: iOS, the country: GB
+2018-09-28 00:37:38,543 - __main__ - INFO - create amount is 300
+2018-09-28 00:37:38,547 - __main__ - INFO - delt_name:bbt2_ca_s1_ios_tz_r12, create_amount:300
+2018-09-28 00:37:41,209 - __main__ - INFO - the platform: iOS, the country: CA
+2018-09-28 00:39:45,214 - __main__ - INFO - create amount is 300
+2018-09-28 00:39:45,218 - __main__ - INFO - delt_name:cet1_de_s1_android_tz_r06, create_amount:300
+2018-09-28 00:39:47,520 - __main__ - INFO - the platform: Android, the country: DE
+2018-09-28 00:41:59,930 - __main__ - INFO - create amount is 300
+2018-09-28 00:41:59,934 - __main__ - INFO - delt_name:bbt2_qa_s3_android_tz_r04, create_amount:300
+2018-09-28 00:42:02,328 - __main__ - INFO - the platform: Android, the country: QA
+2018-09-28 00:43:58,144 - __main__ - INFO - create amount is 300
+2018-09-28 00:43:58,146 - __main__ - INFO - delt_name:cet2_us_s2_android_tz_r12, create_amount:300
+2018-09-28 00:44:00,806 - __main__ - INFO - the platform: Android, the country: US
+2018-09-28 00:46:19,969 - __main__ - INFO - create amount is 300
+2018-09-28 00:46:19,978 - __main__ - INFO - delt_name:cet1_au_s2_ios_tz_a02, create_amount:300
+2018-09-28 00:46:22,221 - __main__ - INFO - the platform: iOS, the country: AU
+2018-09-28 00:48:26,444 - __main__ - INFO - create amount is 300
+2018-09-28 00:48:26,448 - __main__ - INFO - delt_name:cet1_ae_s3_ios_tz_r04, create_amount:300
+2018-09-28 00:48:28,889 - __main__ - INFO - the platform: iOS, the country: AE
+2018-09-28 00:50:14,876 - __main__ - INFO - create amount is 300
+2018-09-28 00:50:14,880 - __main__ - INFO - delt_name:bet3_de_s1_ios_tz_r06, create_amount:300
+2018-09-28 00:50:17,436 - __main__ - INFO - the platform: iOS, the country: DE
+2018-09-28 00:52:27,177 - __main__ - INFO - create amount is 300
+2018-09-28 00:52:27,180 - __main__ - INFO - delt_name:bbt3_hk_s2_ios_tz_a00, create_amount:300
+2018-09-28 00:52:29,838 - __main__ - INFO - the platform: iOS, the country: HK
+2018-09-28 00:52:39,806 - __main__ - INFO - delt_name:cet2_kr_s1_ios_tz_a00, create_amount:300
+2018-09-28 00:52:40,079 - __main__ - INFO - the platform: iOS, the country: KR
+2018-09-28 00:54:50,640 - __main__ - INFO - create amount is 300
+2018-09-28 00:54:50,644 - __main__ - INFO - delt_name:bet3_kw_s4_android_tz_r04, create_amount:300
+2018-09-28 00:54:53,201 - __main__ - INFO - the platform: Android, the country: KW
+2018-09-28 00:56:45,329 - __main__ - INFO - create amount is 300
+2018-09-28 00:56:45,332 - __main__ - INFO - delt_name:cet1_qa_s3_ios_tz_r04, create_amount:300
+2018-09-28 00:56:47,889 - __main__ - INFO - the platform: iOS, the country: QA
+2018-09-28 00:58:46,668 - __main__ - INFO - create amount is 300
+2018-09-28 00:58:46,670 - __main__ - INFO - delt_name:bbt2_jp_s2_android_tz_a00, create_amount:300
+2018-09-28 00:58:49,131 - __main__ - INFO - the platform: Android, the country: JP
+2018-09-28 01:00:56,518 - __main__ - INFO - create amount is 300
+2018-09-28 01:00:56,521 - __main__ - INFO - delt_name:cet1_bh_s4_android_tz_r04, create_amount:300
+2018-09-28 01:00:58,975 - __main__ - INFO - the platform: Android, the country: BH
+2018-09-28 01:02:48,033 - __main__ - INFO - create amount is 300
+2018-09-28 01:02:48,038 - __main__ - INFO - delt_name:cet2_tw_s4_ios_tz_a00, create_amount:300
+2018-09-28 01:02:50,694 - __main__ - INFO - the platform: iOS, the country: TW
+2018-09-28 01:04:57,875 - __main__ - INFO - create amount is 300
+2018-09-28 01:04:57,879 - __main__ - INFO - delt_name:bet3_ru_s3_android_tz_r04, create_amount:300
+2018-09-28 01:05:00,333 - __main__ - INFO - the platform: Android, the country: RU
+2018-09-28 01:06:59,637 - __main__ - INFO - create amount is 301
+2018-09-28 01:06:59,642 - __main__ - INFO - delt_name:bbt2_bh_s4_ios_tz_r04, create_amount:300
+2018-09-28 01:07:01,883 - __main__ - INFO - the platform: iOS, the country: BH
+2018-09-28 01:08:52,886 - __main__ - INFO - create amount is 300
+2018-09-28 01:08:52,889 - __main__ - INFO - delt_name:bbt4_bh_s4_ios_tz_r04, create_amount:300
+2018-09-28 01:08:55,648 - __main__ - INFO - the platform: iOS, the country: BH
+2018-09-28 01:10:44,395 - __main__ - INFO - create amount is 300
+2018-09-28 01:10:44,396 - __main__ - INFO - delt_name:bet3_hk_s2_ios_tz_a00, create_amount:300
+2018-09-28 01:10:46,843 - __main__ - INFO - the platform: iOS, the country: HK
+2018-09-28 01:10:58,279 - __main__ - INFO - delt_name:bbt4_kw_s4_ios_tz_r04, create_amount:300
+2018-09-28 01:10:58,486 - __main__ - INFO - the platform: iOS, the country: KW
+2018-09-28 01:12:58,647 - __main__ - INFO - create amount is 300
+2018-09-28 01:12:58,650 - __main__ - INFO - delt_name:cet1_qa_s3_android_tz_r04, create_amount:300
+2018-09-28 01:13:01,103 - __main__ - INFO - the platform: Android, the country: QA
+2018-09-28 01:14:55,076 - __main__ - INFO - create amount is 300
+2018-09-28 01:14:55,078 - __main__ - INFO - delt_name:bet3_jp_s2_android_tz_a00, create_amount:300
+2018-09-28 01:14:57,227 - __main__ - INFO - the platform: Android, the country: JP
+2018-09-28 01:17:07,378 - __main__ - INFO - create amount is 300
+2018-09-28 01:17:07,382 - __main__ - INFO - delt_name:bbt4_no_s2_android_tz_r06, create_amount:300
+2018-09-28 01:17:10,040 - __main__ - INFO - the platform: Android, the country: NO
+2018-09-28 01:19:10,455 - __main__ - INFO - create amount is 300
+2018-09-28 01:19:10,458 - __main__ - INFO - delt_name:bbt4_sg_s1_android_tz_a00, create_amount:300
+2018-09-28 01:19:12,715 - __main__ - INFO - the platform: Android, the country: SG
+2018-09-28 01:21:18,976 - __main__ - INFO - create amount is 300
+2018-09-28 01:21:18,978 - __main__ - INFO - delt_name:bbt2_tw_s4_ios_tz_a00, create_amount:300
+2018-09-28 01:21:21,434 - __main__ - INFO - the platform: iOS, the country: TW
+2018-09-28 01:23:30,869 - __main__ - INFO - create amount is 300
+2018-09-28 01:23:30,873 - __main__ - INFO - delt_name:bbt2_kw_s4_android_tz_r04, create_amount:300
+2018-09-28 01:23:33,325 - __main__ - INFO - the platform: Android, the country: KW
+2018-09-28 01:25:39,893 - __main__ - INFO - create amount is 300
+2018-09-28 01:25:39,897 - __main__ - INFO - delt_name:bbt3_kw_s4_ios_tz_r04, create_amount:300
+2018-09-28 01:25:42,350 - __main__ - INFO - the platform: iOS, the country: KW
+2018-09-28 01:27:37,961 - __main__ - INFO - create amount is 300
+2018-09-28 01:27:37,963 - __main__ - INFO - delt_name:bbt2_us_s2_ios_tz_r12, create_amount:300
+2018-09-28 01:27:40,624 - __main__ - INFO - the platform: iOS, the country: US
+2018-09-28 01:29:59,375 - __main__ - INFO - create amount is 301
+2018-09-28 01:29:59,386 - __main__ - INFO - delt_name:cet1_sg_s1_ios_tz_a00, create_amount:300
+2018-09-28 01:30:01,939 - __main__ - INFO - the platform: iOS, the country: SG
+2018-09-28 01:32:17,623 - __main__ - INFO - create amount is 300
+2018-09-28 01:32:17,626 - __main__ - INFO - delt_name:bbt3_om_s3_ios_tz_r04, create_amount:300
+2018-09-28 01:32:19,972 - __main__ - INFO - the platform: iOS, the country: OM
+2018-09-28 01:34:15,377 - __main__ - INFO - create amount is 300
+2018-09-28 01:34:15,379 - __main__ - INFO - delt_name:cet2_om_s3_android_tz_r04, create_amount:300
+2018-09-28 01:34:18,041 - __main__ - INFO - the platform: Android, the country: OM
+2018-09-28 01:36:14,368 - __main__ - INFO - create amount is 300
+2018-09-28 01:36:14,370 - __main__ - INFO - delt_name:cet2_no_s2_ios_tz_r06, create_amount:300
+2018-09-28 01:36:16,927 - __main__ - INFO - the platform: iOS, the country: NO
+2018-09-28 01:38:19,602 - __main__ - INFO - create amount is 300
+2018-09-28 01:38:19,604 - __main__ - INFO - delt_name:bbt4_ru_s3_android_tz_r04, create_amount:300
+2018-09-28 01:38:21,856 - __main__ - INFO - the platform: Android, the country: RU
+2018-09-28 01:40:20,231 - __main__ - INFO - create amount is 301
+2018-09-28 01:40:20,233 - __main__ - INFO - delt_name:bbt2_kr_s1_android_tz_a00, create_amount:300
+2018-09-28 01:40:22,587 - __main__ - INFO - the platform: Android, the country: KR
+2018-09-28 01:42:29,154 - __main__ - INFO - create amount is 300
+2018-09-28 01:42:29,158 - __main__ - INFO - delt_name:cet1_au_s2_android_tz_a02, create_amount:300
+2018-09-28 01:42:31,303 - __main__ - INFO - the platform: Android, the country: AU
+2018-09-28 01:44:43,606 - __main__ - INFO - create amount is 300
+2018-09-28 01:44:43,610 - __main__ - INFO - delt_name:bbt3_ae_s3_ios_tz_r04, create_amount:300
+2018-09-28 01:44:45,960 - __main__ - INFO - the platform: iOS, the country: AE
+2018-09-28 01:46:39,728 - __main__ - INFO - create amount is 300
+2018-09-28 01:46:39,732 - __main__ - INFO - delt_name:bbt3_us_s2_ios_tz_r12, create_amount:300
+2018-09-28 01:46:42,186 - __main__ - INFO - the platform: iOS, the country: US
+2018-09-28 01:49:00,529 - __main__ - INFO - create amount is 300
+2018-09-28 01:49:00,538 - __main__ - INFO - delt_name:bet3_sa_s3_android_tz_r04, create_amount:300
+2018-09-28 01:49:02,989 - __main__ - INFO - the platform: Android, the country: SA
+2018-09-28 01:50:53,166 - __main__ - INFO - create amount is 300
+2018-09-28 01:50:53,169 - __main__ - INFO - delt_name:bbt3_ru_s3_android_tz_r04, create_amount:300
+2018-09-28 01:50:55,219 - __main__ - INFO - the platform: Android, the country: RU
+2018-09-28 01:52:53,287 - __main__ - INFO - create amount is 300
+2018-09-28 01:52:53,290 - __main__ - INFO - delt_name:bbt3_no_s2_ios_tz_r06, create_amount:300
+2018-09-28 01:52:55,743 - __main__ - INFO - the platform: iOS, the country: NO
+2018-09-28 01:55:04,052 - __main__ - INFO - create amount is 300
+2018-09-28 01:55:04,056 - __main__ - INFO - delt_name:cet1_ae_s3_android_tz_r04, create_amount:300
+2018-09-28 01:55:06,304 - __main__ - INFO - the platform: Android, the country: AE
+2018-09-28 01:56:59,252 - __main__ - INFO - create amount is 300
+2018-09-28 01:56:59,253 - __main__ - INFO - delt_name:bbt3_bh_s4_ios_tz_r04, create_amount:300
+2018-09-28 01:57:01,815 - __main__ - INFO - the platform: iOS, the country: BH
+2018-09-28 01:58:53,019 - __main__ - INFO - create amount is 300
+2018-09-28 01:58:53,020 - __main__ - INFO - delt_name:bbt3_qa_s3_ios_tz_r04, create_amount:300
+2018-09-28 01:58:55,578 - __main__ - INFO - the platform: iOS, the country: QA
+2018-09-28 02:00:49,549 - __main__ - INFO - create amount is 300
+2018-09-28 02:00:49,551 - __main__ - INFO - delt_name:bbt2_sa_s3_android_tz_r04, create_amount:300
+2018-09-28 02:00:52,013 - __main__ - INFO - the platform: Android, the country: SA
+2018-09-28 02:02:55,914 - __main__ - INFO - create amount is 300
+2018-09-28 02:02:55,916 - __main__ - INFO - delt_name:cet2_kr_s1_android_tz_a00, create_amount:300
+2018-09-28 02:02:58,166 - __main__ - INFO - the platform: Android, the country: KR
+2018-09-28 02:05:03,709 - __main__ - INFO - create amount is 300
+2018-09-28 02:05:03,714 - __main__ - INFO - delt_name:bbt2_om_s3_ios_tz_r04, create_amount:300
+2018-09-28 02:05:06,167 - __main__ - INFO - the platform: iOS, the country: OM
+2018-09-28 02:06:54,196 - __main__ - INFO - create amount is 300
+2018-09-28 02:06:54,198 - __main__ - INFO - delt_name:cet2_sg_s1_android_tz_a00, create_amount:300
+2018-09-28 02:06:56,655 - __main__ - INFO - the platform: Android, the country: SG
+2018-09-28 02:09:09,778 - __main__ - INFO - create amount is 300
+2018-09-28 02:09:09,782 - __main__ - INFO - delt_name:bbt3_jp_s2_android_tz_a00, create_amount:300
+2018-09-28 02:09:12,030 - __main__ - INFO - the platform: Android, the country: JP
+2018-09-28 02:11:15,305 - __main__ - INFO - create amount is 300
+2018-09-28 02:11:15,307 - __main__ - INFO - delt_name:bbt2_tw_s4_android_tz_a00, create_amount:300
+2018-09-28 02:11:16,959 - __main__ - INFO - the platform: Android, the country: TW
+2018-09-28 02:13:24,552 - __main__ - INFO - create amount is 300
+2018-09-28 02:13:24,556 - __main__ - INFO - delt_name:cet2_au_s2_ios_tz_a02, create_amount:300
+2018-09-28 02:13:27,111 - __main__ - INFO - the platform: iOS, the country: AU
+2018-09-28 02:15:38,135 - __main__ - INFO - create amount is 300
+2018-09-28 02:15:38,137 - __main__ - INFO - delt_name:bbt4_tw_s4_ios_tz_a00, create_amount:300
+2018-09-28 02:15:40,338 - __main__ - INFO - the platform: iOS, the country: TW
+2018-09-28 02:17:47,310 - __main__ - INFO - create amount is 300
+2018-09-28 02:17:47,312 - __main__ - INFO - delt_name:bbt2_ae_s3_ios_tz_r04, create_amount:300
+2018-09-28 02:17:49,460 - __main__ - INFO - the platform: iOS, the country: AE
+2018-09-28 02:19:39,030 - __main__ - INFO - create amount is 300
+2018-09-28 02:19:39,032 - __main__ - INFO - delt_name:bbt4_no_s2_ios_tz_r06, create_amount:300
+2018-09-28 02:19:41,386 - __main__ - INFO - the platform: iOS, the country: NO
+2018-09-28 02:21:46,518 - __main__ - INFO - create amount is 300
+2018-09-28 02:21:46,521 - __main__ - INFO - delt_name:bbt4_qa_s3_ios_tz_r04, create_amount:300
+2018-09-28 02:21:49,183 - __main__ - INFO - the platform: iOS, the country: QA
+2018-09-28 02:23:40,691 - __main__ - INFO - create amount is 300
+2018-09-28 02:23:40,694 - __main__ - INFO - delt_name:bbt2_bh_s4_android_tz_r04, create_amount:300
+2018-09-28 02:23:43,253 - __main__ - INFO - the platform: Android, the country: BH
+2018-09-28 02:25:35,589 - __main__ - INFO - create amount is 300
+2018-09-28 02:25:35,591 - __main__ - INFO - delt_name:bet3_at_s1_android_tz_r06, create_amount:300
+2018-09-28 02:25:37,841 - __main__ - INFO - the platform: Android, the country: AT
+2018-09-28 02:27:37,241 - __main__ - INFO - create amount is 300
+2018-09-28 02:27:37,243 - __main__ - INFO - delt_name:bbt3_fr_s1_ios_tz_r06, create_amount:300
+2018-09-28 02:27:39,492 - __main__ - INFO - the platform: iOS, the country: FR
+2018-09-28 02:29:46,983 - __main__ - INFO - create amount is 300
+2018-09-28 02:29:46,987 - __main__ - INFO - delt_name:cet1_gb_s1_android_tz_r06, create_amount:300
+2018-09-28 02:29:49,440 - __main__ - INFO - the platform: Android, the country: GB
+2018-09-28 02:32:06,871 - __main__ - INFO - create amount is 300
+2018-09-28 02:32:06,875 - __main__ - INFO - delt_name:cet1_bh_s4_ios_tz_r04, create_amount:300
+2018-09-28 02:32:09,523 - __main__ - INFO - the platform: iOS, the country: BH
+2018-09-28 02:34:02,677 - __main__ - INFO - create amount is 300
+2018-09-28 02:34:02,680 - __main__ - INFO - delt_name:bbt2_mo_s2_android_tz_a00, create_amount:300
+2018-09-28 02:34:05,031 - __main__ - INFO - the platform: Android, the country: MO
+2018-09-28 02:35:59,314 - __main__ - INFO - create amount is 300
+2018-09-28 02:35:59,317 - __main__ - INFO - delt_name:bbt2_jp_s2_ios_tz_a00, create_amount:300
+2018-09-28 02:36:01,564 - __main__ - INFO - the platform: iOS, the country: JP
+2018-09-28 02:38:10,275 - __main__ - INFO - create amount is 300
+2018-09-28 02:38:10,278 - __main__ - INFO - delt_name:bet3_sg_s1_ios_tz_a00, create_amount:300
+2018-09-28 02:38:12,534 - __main__ - INFO - the platform: iOS, the country: SG
+2018-09-28 02:40:18,078 - __main__ - INFO - create amount is 300
+2018-09-28 02:40:18,081 - __main__ - INFO - delt_name:cet2_au_s2_android_tz_a02, create_amount:300
+2018-09-28 02:40:20,330 - __main__ - INFO - the platform: Android, the country: AU
+2018-09-28 02:42:32,939 - __main__ - INFO - create amount is 300
+2018-09-28 02:42:32,943 - __main__ - INFO - delt_name:bbt2_us_s2_android_tz_r12, create_amount:300
+2018-09-28 02:42:35,293 - __main__ - INFO - the platform: Android, the country: US
+2018-09-28 02:44:53,637 - __main__ - INFO - create amount is 300
+2018-09-28 02:44:53,645 - __main__ - INFO - delt_name:bbt3_ru_s3_ios_tz_r04, create_amount:300
+2018-09-28 02:44:55,890 - __main__ - INFO - the platform: iOS, the country: RU
+2018-09-28 02:46:49,555 - __main__ - INFO - create amount is 300
+2018-09-28 02:46:49,557 - __main__ - INFO - delt_name:cet1_om_s3_android_tz_r04, create_amount:300
+2018-09-28 02:46:52,115 - __main__ - INFO - the platform: Android, the country: OM
+2018-09-28 02:48:45,779 - __main__ - INFO - create amount is 300
+2018-09-28 02:48:45,783 - __main__ - INFO - delt_name:cet1_mo_s2_ios_tz_a00, create_amount:300
+2018-09-28 02:48:48,237 - __main__ - INFO - the platform: iOS, the country: MO
+2018-09-28 02:50:38,318 - __main__ - INFO - create amount is 300
+2018-09-28 02:50:38,319 - __main__ - INFO - delt_name:bbt2_ru_s3_android_tz_r04, create_amount:300
+2018-09-28 02:50:40,878 - __main__ - INFO - the platform: Android, the country: RU
+2018-09-28 02:52:34,953 - __main__ - INFO - create amount is 300
+2018-09-28 02:52:34,954 - __main__ - INFO - delt_name:bbt4_fr_s1_android_tz_r06, create_amount:300
+2018-09-28 02:52:37,512 - __main__ - INFO - the platform: Android, the country: FR
+2018-09-28 02:54:56,572 - __main__ - INFO - create amount is 300
+2018-09-28 02:54:56,578 - __main__ - INFO - delt_name:bbt2_hk_s2_ios_tz_a00, create_amount:300
+2018-09-28 02:54:58,824 - __main__ - INFO - the platform: iOS, the country: HK
+2018-09-28 02:55:07,972 - __main__ - INFO - delt_name:bbt4_au_s2_ios_tz_a02, create_amount:300
+2018-09-28 02:55:08,180 - __main__ - INFO - the platform: iOS, the country: AU
+2018-09-28 02:57:11,410 - __main__ - INFO - create amount is 300
+2018-09-28 02:57:11,414 - __main__ - INFO - delt_name:cet2_us_s2_ios_tz_r12, create_amount:300
+2018-09-28 02:57:13,688 - __main__ - INFO - the platform: iOS, the country: US
+2018-09-28 02:59:31,416 - __main__ - INFO - create amount is 300
+2018-09-28 02:59:31,426 - __main__ - INFO - delt_name:bet3_gb_s1_ios_tz_r06, create_amount:300
+2018-09-28 02:59:34,077 - __main__ - INFO - the platform: iOS, the country: GB
+2018-09-28 03:01:55,089 - __main__ - INFO - create amount is 300
+2018-09-28 03:01:55,094 - __main__ - INFO - delt_name:bet3_ae_s3_ios_tz_r04, create_amount:300
+2018-09-28 03:01:57,746 - __main__ - INFO - the platform: iOS, the country: AE
+2018-09-28 03:03:50,182 - __main__ - INFO - create amount is 300
+2018-09-28 03:03:50,184 - __main__ - INFO - delt_name:bet3_us_s2_ios_tz_r12, create_amount:300
+2018-09-28 03:03:52,331 - __main__ - INFO - the platform: iOS, the country: US
+2018-09-28 03:06:10,164 - __main__ - INFO - create amount is 300
+2018-09-28 03:06:10,171 - __main__ - INFO - delt_name:cet1_de_s1_ios_tz_r06, create_amount:300
+2018-09-28 03:06:12,723 - __main__ - INFO - the platform: iOS, the country: DE
+2018-09-28 03:08:25,538 - __main__ - INFO - create amount is 300
+2018-09-28 03:08:25,541 - __main__ - INFO - delt_name:cet1_gb_s1_ios_tz_r06, create_amount:300
+2018-09-28 03:08:27,893 - __main__ - INFO - the platform: iOS, the country: GB
+2018-09-28 03:10:38,007 - __main__ - INFO - create amount is 300
+2018-09-28 03:10:38,009 - __main__ - INFO - delt_name:cet2_fr_s1_android_tz_r06, create_amount:300
+2018-09-28 03:10:40,604 - __main__ - INFO - the platform: Android, the country: FR
+2018-09-28 03:12:58,898 - __main__ - INFO - create amount is 300
+2018-09-28 03:12:58,900 - __main__ - INFO - delt_name:cet1_ru_s3_ios_tz_r04, create_amount:300
+2018-09-28 03:13:01,405 - __main__ - INFO - the platform: iOS, the country: RU
+2018-09-28 03:14:58,756 - __main__ - INFO - create amount is 301
+2018-09-28 03:14:58,760 - __main__ - INFO - delt_name:cet1_us_s2_android_tz_r12, create_amount:300
+2018-09-28 03:15:01,315 - __main__ - INFO - the platform: Android, the country: US
+2018-09-28 03:17:19,249 - __main__ - INFO - create amount is 300
+2018-09-28 03:17:19,257 - __main__ - INFO - delt_name:bbt2_no_s2_android_tz_r06, create_amount:300
+2018-09-28 03:17:21,399 - __main__ - INFO - the platform: Android, the country: NO
+2018-09-28 03:19:28,478 - __main__ - INFO - create amount is 300
+2018-09-28 03:19:28,482 - __main__ - INFO - delt_name:cet1_fr_s1_ios_tz_r06, create_amount:300
+2018-09-28 03:19:30,936 - __main__ - INFO - the platform: iOS, the country: FR
+2018-09-28 03:21:41,394 - __main__ - INFO - create amount is 300
+2018-09-28 03:21:41,398 - __main__ - INFO - delt_name:cet2_ru_s3_android_tz_r04, create_amount:300
+2018-09-28 03:21:43,750 - __main__ - INFO - the platform: Android, the country: RU
+2018-09-28 03:23:40,375 - __main__ - INFO - create amount is 300
+2018-09-28 03:23:40,378 - __main__ - INFO - delt_name:bbt3_sa_s3_ios_tz_r04, create_amount:300
+2018-09-28 03:23:42,507 - __main__ - INFO - the platform: iOS, the country: SA
+2018-09-28 03:25:27,905 - __main__ - INFO - create amount is 300
+2018-09-28 03:25:27,906 - __main__ - INFO - delt_name:bet3_qa_s3_android_tz_r04, create_amount:300
+2018-09-28 03:25:30,055 - __main__ - INFO - the platform: Android, the country: QA
+2018-09-28 03:27:29,763 - __main__ - INFO - create amount is 300
+2018-09-28 03:27:29,765 - __main__ - INFO - delt_name:bet3_au_s2_android_tz_a02, create_amount:300
+2018-09-28 03:27:32,220 - __main__ - INFO - the platform: Android, the country: AU
+2018-09-28 03:29:37,252 - __main__ - INFO - create amount is 300
+2018-09-28 03:29:37,255 - __main__ - INFO - delt_name:cet2_ae_s3_ios_tz_r04, create_amount:300
+2018-09-28 03:29:39,811 - __main__ - INFO - the platform: iOS, the country: AE
+2018-09-28 03:31:33,474 - __main__ - INFO - create amount is 300
+2018-09-28 03:31:33,475 - __main__ - INFO - delt_name:bbt2_ca_s1_android_tz_r12, create_amount:300
+2018-09-28 03:31:35,936 - __main__ - INFO - the platform: Android, the country: CA
+2018-09-28 03:33:41,681 - __main__ - INFO - create amount is 300
+2018-09-28 03:33:41,684 - __main__ - INFO - delt_name:bbt4_sa_s3_android_tz_r04, create_amount:300
+2018-09-28 03:33:44,035 - __main__ - INFO - the platform: Android, the country: SA
+2018-09-28 03:35:32,903 - __main__ - INFO - create amount is 300
+2018-09-28 03:35:32,906 - __main__ - INFO - delt_name:bbt4_fr_s1_ios_tz_r06, create_amount:300
+2018-09-28 03:35:35,039 - __main__ - INFO - the platform: iOS, the country: FR
+2018-09-28 03:37:43,654 - __main__ - INFO - create amount is 300
+2018-09-28 03:37:43,656 - __main__ - INFO - delt_name:cet1_tw_s4_android_tz_a00, create_amount:300
+2018-09-28 03:37:46,008 - __main__ - INFO - the platform: Android, the country: TW
+2018-09-28 03:39:53,396 - __main__ - INFO - create amount is 300
+2018-09-28 03:39:53,399 - __main__ - INFO - delt_name:cet2_bh_s4_android_tz_r04, create_amount:300
+2018-09-28 03:39:55,648 - __main__ - INFO - the platform: Android, the country: BH
+2018-09-28 03:41:47,265 - __main__ - INFO - create amount is 300
+2018-09-28 03:41:47,267 - __main__ - INFO - delt_name:bbt3_at_s1_android_tz_r06, create_amount:300
+2018-09-28 03:41:49,619 - __main__ - INFO - the platform: Android, the country: AT
+2018-09-28 03:43:52,704 - __main__ - INFO - create amount is 300
+2018-09-28 03:43:52,708 - __main__ - INFO - delt_name:bet3_om_s3_android_tz_r04, create_amount:300
+2018-09-28 03:43:55,061 - __main__ - INFO - the platform: Android, the country: OM
+2018-09-28 03:45:48,825 - __main__ - INFO - create amount is 300
+2018-09-28 03:45:48,828 - __main__ - INFO - delt_name:bbt3_om_s3_android_tz_r04, create_amount:300
+2018-09-28 03:45:51,081 - __main__ - INFO - the platform: Android, the country: OM
+2018-09-28 03:48:09,424 - __main__ - INFO - create amount is 300
+2018-09-28 03:48:09,427 - __main__ - INFO - delt_name:bbt2_ae_s3_android_tz_r04, create_amount:300
+2018-09-28 03:48:11,984 - __main__ - INFO - the platform: Android, the country: AE
+2018-09-28 03:50:06,878 - __main__ - INFO - create amount is 300
+2018-09-28 03:50:06,884 - __main__ - INFO - delt_name:bet3_mo_s2_ios_tz_a00, create_amount:300
+2018-09-28 03:50:09,028 - __main__ - INFO - the platform: iOS, the country: MO
+2018-09-28 03:51:59,519 - __main__ - INFO - create amount is 300
+2018-09-28 03:51:59,522 - __main__ - INFO - delt_name:cet1_at_s1_ios_tz_r06, create_amount:300
+2018-09-28 03:52:01,668 - __main__ - INFO - the platform: iOS, the country: AT
+2018-09-28 03:54:08,642 - __main__ - INFO - create amount is 300
+2018-09-28 03:54:08,644 - __main__ - INFO - delt_name:cet1_kw_s4_ios_tz_r04, create_amount:300
+2018-09-28 03:54:10,899 - __main__ - INFO - the platform: iOS, the country: KW
+2018-09-28 03:56:04,257 - __main__ - INFO - create amount is 300
+2018-09-28 03:56:04,264 - __main__ - INFO - delt_name:bbt4_hk_s2_ios_tz_a00, create_amount:300
+2018-09-28 03:56:05,792 - __main__ - INFO - the platform: iOS, the country: HK
+2018-09-28 03:56:16,785 - __main__ - INFO - delt_name:cet1_kr_s1_ios_tz_a00, create_amount:300
+2018-09-28 03:56:16,993 - __main__ - INFO - the platform: iOS, the country: KR
+2018-09-28 03:58:25,056 - __main__ - INFO - create amount is 300
+2018-09-28 03:58:25,059 - __main__ - INFO - delt_name:cet2_ca_s1_ios_tz_r12, create_amount:300
+2018-09-28 03:58:27,206 - __main__ - INFO - the platform: iOS, the country: CA
+2018-09-28 04:00:37,255 - __main__ - INFO - create amount is 300
+2018-09-28 04:00:37,257 - __main__ - INFO - delt_name:cet1_om_s3_ios_tz_r04, create_amount:300
+2018-09-28 04:00:39,611 - __main__ - INFO - the platform: iOS, the country: OM
+2018-09-28 04:02:30,716 - __main__ - INFO - create amount is 300
+2018-09-28 04:02:30,718 - __main__ - INFO - delt_name:cet1_tw_s4_ios_tz_a00, create_amount:300
+2018-09-28 04:02:33,173 - __main__ - INFO - the platform: iOS, the country: TW
+2018-09-28 04:04:39,945 - __main__ - INFO - create amount is 300
+2018-09-28 04:04:39,949 - __main__ - INFO - delt_name:bbt2_sg_s1_android_tz_a00, create_amount:300
+2018-09-28 04:04:42,302 - __main__ - INFO - the platform: Android, the country: SG
+2018-09-28 04:06:49,176 - __main__ - INFO - create amount is 300
+2018-09-28 04:06:49,179 - __main__ - INFO - delt_name:bbt2_at_s1_android_tz_r06, create_amount:300
+2018-09-28 04:06:51,427 - __main__ - INFO - the platform: Android, the country: AT
+2018-09-28 04:08:55,031 - __main__ - INFO - create amount is 300
+2018-09-28 04:08:55,035 - __main__ - INFO - delt_name:bbt2_au_s2_android_tz_a02, create_amount:300
+2018-09-28 04:08:57,136 - __main__ - INFO - the platform: Android, the country: AU
+2018-09-28 04:11:04,050 - __main__ - INFO - create amount is 300
+2018-09-28 04:11:04,052 - __main__ - INFO - delt_name:cet2_gb_s1_ios_tz_r06, create_amount:300
+2018-09-28 04:11:06,302 - __main__ - INFO - the platform: iOS, the country: GB
+2018-09-28 04:13:16,249 - __main__ - INFO - create amount is 300
+2018-09-28 04:13:16,253 - __main__ - INFO - delt_name:bbt2_au_s2_ios_tz_a02, create_amount:300
+2018-09-28 04:13:18,707 - __main__ - INFO - the platform: iOS, the country: AU
+2018-09-28 04:15:19,817 - __main__ - INFO - create amount is 301
+2018-09-28 04:15:19,821 - __main__ - INFO - delt_name:cet2_mo_s2_android_tz_a00, create_amount:300
+2018-09-28 04:15:22,304 - __main__ - INFO - the platform: Android, the country: MO
+2018-09-28 04:17:14,934 - __main__ - INFO - create amount is 300
+2018-09-28 04:17:14,937 - __main__ - INFO - delt_name:cet2_hk_s2_ios_tz_a00, create_amount:300
+2018-09-28 04:17:17,066 - __main__ - INFO - the platform: iOS, the country: HK
+2018-09-28 04:17:26,345 - __main__ - INFO - delt_name:cet2_bh_s4_ios_tz_r04, create_amount:300
+2018-09-28 04:17:26,554 - __main__ - INFO - the platform: iOS, the country: BH
+2018-09-28 04:19:22,433 - __main__ - INFO - create amount is 300
+2018-09-28 04:19:22,434 - __main__ - INFO - delt_name:bbt4_ca_s1_ios_tz_r12, create_amount:300
+2018-09-28 04:19:24,687 - __main__ - INFO - the platform: iOS, the country: CA
+2018-09-28 04:21:30,541 - __main__ - INFO - create amount is 300
+2018-09-28 04:21:30,544 - __main__ - INFO - delt_name:bbt2_gb_s1_android_tz_r06, create_amount:300
+2018-09-28 04:21:33,198 - __main__ - INFO - the platform: Android, the country: GB
+2018-09-28 04:23:44,989 - __main__ - INFO - create amount is 300
+2018-09-28 04:23:44,994 - __main__ - INFO - delt_name:bbt2_hk_s2_android_tz_a00, create_amount:300
+2018-09-28 04:23:47,344 - __main__ - INFO - the platform: Android, the country: HK
+2018-09-28 04:23:57,147 - __main__ - INFO - delt_name:cet1_jp_s2_ios_tz_a00, create_amount:300
+2018-09-28 04:23:57,555 - __main__ - INFO - the platform: iOS, the country: JP
+2018-09-28 04:26:02,001 - __main__ - INFO - create amount is 300
+2018-09-28 04:26:02,003 - __main__ - INFO - delt_name:bet3_sa_s3_ios_tz_r04, create_amount:300
+2018-09-28 04:26:04,363 - __main__ - INFO - the platform: iOS, the country: SA
+2018-09-28 04:28:00,683 - __main__ - INFO - create amount is 300
+2018-09-28 04:28:00,686 - __main__ - INFO - delt_name:bbt3_sg_s1_android_tz_a00, create_amount:300
+2018-09-28 04:28:03,039 - __main__ - INFO - the platform: Android, the country: SG
+2018-09-28 04:30:07,663 - __main__ - INFO - create amount is 300
+2018-09-28 04:30:07,665 - __main__ - INFO - delt_name:cet2_at_s1_ios_tz_r06, create_amount:300
+2018-09-28 04:30:10,015 - __main__ - INFO - the platform: iOS, the country: AT
+2018-09-28 04:32:15,252 - __main__ - INFO - create amount is 300
+2018-09-28 04:32:15,255 - __main__ - INFO - delt_name:bet3_de_s1_android_tz_r06, create_amount:300
+2018-09-28 04:32:17,913 - __main__ - INFO - the platform: Android, the country: DE
+2018-09-28 04:34:30,214 - __main__ - INFO - create amount is 300
+2018-09-28 04:34:30,217 - __main__ - INFO - delt_name:bbt3_de_s1_android_tz_r06, create_amount:300
+2018-09-28 04:34:32,877 - __main__ - INFO - the platform: Android, the country: DE
+2018-09-28 04:36:51,014 - __main__ - INFO - create amount is 300
+2018-09-28 04:36:51,016 - __main__ - INFO - delt_name:cet1_sa_s3_ios_tz_r04, create_amount:300
+2018-09-28 04:36:53,576 - __main__ - INFO - the platform: iOS, the country: SA
+2018-09-28 04:38:46,831 - __main__ - INFO - create amount is 300
+2018-09-28 04:38:46,833 - __main__ - INFO - delt_name:bet3_no_s2_ios_tz_r06, create_amount:300
+2018-09-28 04:38:49,289 - __main__ - INFO - the platform: iOS, the country: NO
+2018-09-28 04:40:53,297 - __main__ - INFO - create amount is 300
+2018-09-28 04:40:53,301 - __main__ - INFO - delt_name:cet2_sg_s1_ios_tz_a00, create_amount:300
+2018-09-28 04:40:55,447 - __main__ - INFO - the platform: iOS, the country: SG
+2018-09-28 04:43:07,647 - __main__ - INFO - create amount is 300
+2018-09-28 04:43:07,654 - __main__ - INFO - delt_name:bbt3_ae_s3_android_tz_r04, create_amount:300
+2018-09-28 04:43:10,307 - __main__ - INFO - the platform: Android, the country: AE
+2018-09-28 04:45:11,244 - __main__ - INFO - create amount is 300
+2018-09-28 04:45:11,247 - __main__ - INFO - delt_name:bbt4_kr_s1_android_tz_a00, create_amount:300
+2018-09-28 04:45:13,598 - __main__ - INFO - the platform: Android, the country: KR
+2018-09-28 04:47:19,040 - __main__ - INFO - create amount is 300
+2018-09-28 04:47:19,045 - __main__ - INFO - delt_name:bbt3_kr_s1_android_tz_a00, create_amount:300
+2018-09-28 04:47:21,496 - __main__ - INFO - the platform: Android, the country: KR
+2018-09-28 04:49:30,113 - __main__ - INFO - create amount is 300
+2018-09-28 04:49:30,117 - __main__ - INFO - delt_name:cet1_ca_s1_android_tz_r12, create_amount:300
+2018-09-28 04:49:32,570 - __main__ - INFO - the platform: Android, the country: CA
+2018-09-28 04:51:41,147 - __main__ - INFO - create amount is 300
+2018-09-28 04:51:41,150 - __main__ - INFO - delt_name:bet3_sg_s1_android_tz_a00, create_amount:300
+2018-09-28 04:51:43,846 - __main__ - INFO - the platform: Android, the country: SG
+2018-09-28 04:53:54,716 - __main__ - INFO - create amount is 300
+2018-09-28 04:53:54,718 - __main__ - INFO - delt_name:bet3_om_s3_ios_tz_r04, create_amount:300
+2018-09-28 04:53:57,276 - __main__ - INFO - the platform: iOS, the country: OM
+2018-09-28 04:55:52,271 - __main__ - INFO - create amount is 300
+2018-09-28 04:55:52,274 - __main__ - INFO - delt_name:cet2_sa_s3_ios_tz_r04, create_amount:300
+2018-09-28 04:55:55,036 - __main__ - INFO - the platform: iOS, the country: SA
+2018-09-28 04:57:43,575 - __main__ - INFO - create amount is 300
+2018-09-28 04:57:43,579 - __main__ - INFO - delt_name:bbt4_om_s3_ios_tz_r04, create_amount:300
+2018-09-28 04:57:46,141 - __main__ - INFO - the platform: iOS, the country: OM
+2018-09-28 04:59:43,901 - __main__ - INFO - create amount is 300
+2018-09-28 04:59:43,904 - __main__ - INFO - delt_name:bbt4_tw_s4_android_tz_a00, create_amount:300
+2018-09-28 04:59:46,726 - __main__ - INFO - the platform: Android, the country: TW
+2018-09-28 05:01:56,420 - __main__ - INFO - create amount is 300
+2018-09-28 05:01:56,426 - __main__ - INFO - delt_name:cet1_sa_s3_android_tz_r04, create_amount:300
+2018-09-28 05:01:59,071 - __main__ - INFO - the platform: Android, the country: SA
+2018-09-28 05:03:57,139 - __main__ - INFO - create amount is 300
+2018-09-28 05:03:57,142 - __main__ - INFO - delt_name:bbt3_gb_s1_android_tz_r06, create_amount:300
+2018-09-28 05:03:59,084 - __main__ - INFO - the platform: Android, the country: GB
+2018-09-28 05:06:22,060 - __main__ - INFO - create amount is 300
+2018-09-28 05:06:22,066 - __main__ - INFO - delt_name:cet1_sg_s1_android_tz_a00, create_amount:300
+2018-09-28 05:06:24,697 - __main__ - INFO - the platform: Android, the country: SG
+2018-09-28 05:08:32,626 - __main__ - INFO - create amount is 300
+2018-09-28 05:08:32,630 - __main__ - INFO - delt_name:bbt3_qa_s3_android_tz_r04, create_amount:300
+2018-09-28 05:08:35,155 - __main__ - INFO - the platform: Android, the country: QA
+2018-09-28 05:10:30,971 - __main__ - INFO - create amount is 300
+2018-09-28 05:10:30,975 - __main__ - INFO - delt_name:bbt4_de_s1_ios_tz_r06, create_amount:300
+2018-09-28 05:10:33,634 - __main__ - INFO - the platform: iOS, the country: DE
+2018-09-28 05:12:47,617 - __main__ - INFO - create amount is 300
+2018-09-28 05:12:47,624 - __main__ - INFO - delt_name:bbt4_ae_s3_android_tz_r04, create_amount:300
+2018-09-28 05:12:50,134 - __main__ - INFO - the platform: Android, the country: AE
+2018-09-28 05:14:51,273 - __main__ - INFO - create amount is 300
+2018-09-28 05:14:51,276 - __main__ - INFO - delt_name:bbt2_mo_s2_ios_tz_a00, create_amount:300
+2018-09-28 05:14:53,628 - __main__ - INFO - the platform: iOS, the country: MO
+2018-09-28 05:16:41,553 - __main__ - INFO - create amount is 300
+2018-09-28 05:16:41,556 - __main__ - INFO - delt_name:cet1_mo_s2_android_tz_a00, create_amount:300
+2018-09-28 05:16:44,015 - __main__ - INFO - the platform: Android, the country: MO
+2018-09-28 05:18:47,915 - __main__ - INFO - create amount is 300
+2018-09-28 05:18:47,921 - __main__ - INFO - delt_name:bbt3_au_s2_ios_tz_a02, create_amount:300
+2018-09-28 05:18:50,816 - __main__ - INFO - the platform: iOS, the country: AU
+2018-09-28 05:20:59,824 - __main__ - INFO - create amount is 300
+2018-09-28 05:20:59,826 - __main__ - INFO - delt_name:bet3_us_s2_android_tz_r12, create_amount:300
+2018-09-28 05:21:01,962 - __main__ - INFO - the platform: Android, the country: US
+2018-09-28 05:23:21,741 - __main__ - INFO - create amount is 300
+2018-09-28 05:23:21,748 - __main__ - INFO - delt_name:cet1_jp_s2_android_tz_a00, create_amount:300
+2018-09-28 05:23:24,201 - __main__ - INFO - the platform: Android, the country: JP
+2018-09-28 05:25:29,332 - __main__ - INFO - create amount is 300
+2018-09-28 05:25:29,335 - __main__ - INFO - delt_name:bet3_at_s1_ios_tz_r06, create_amount:300
+2018-09-28 05:25:31,994 - __main__ - INFO - the platform: iOS, the country: AT
+2018-09-28 05:27:37,638 - __main__ - INFO - create amount is 300
+2018-09-28 05:27:37,640 - __main__ - INFO - delt_name:cet2_tw_s4_android_tz_a00, create_amount:300
+2018-09-28 05:27:40,199 - __main__ - INFO - the platform: Android, the country: TW
+2018-09-28 05:29:47,994 - __main__ - INFO - create amount is 300
+2018-09-28 05:29:48,000 - __main__ - INFO - delt_name:cet1_hk_s2_android_tz_a00, create_amount:300
+2018-09-28 05:29:50,451 - __main__ - INFO - the platform: Android, the country: HK
+2018-09-28 05:29:59,914 - __main__ - INFO - delt_name:cet2_ae_s3_android_tz_r04, create_amount:300
+2018-09-28 05:30:00,180 - __main__ - INFO - the platform: Android, the country: AE
+2018-09-28 05:31:55,485 - __main__ - INFO - create amount is 300
+2018-09-28 05:31:55,487 - __main__ - INFO - delt_name:cet2_qa_s3_ios_tz_r04, create_amount:300
+2018-09-28 05:31:57,942 - __main__ - INFO - the platform: iOS, the country: QA
+2018-09-28 05:33:51,299 - __main__ - INFO - create amount is 300
+2018-09-28 05:33:51,302 - __main__ - INFO - delt_name:bbt2_no_s2_ios_tz_r06, create_amount:300
+2018-09-28 05:33:53,554 - __main__ - INFO - the platform: iOS, the country: NO
+2018-09-28 05:35:58,582 - __main__ - INFO - create amount is 300
+2018-09-28 05:35:58,586 - __main__ - INFO - delt_name:bet3_kr_s1_ios_tz_a00, create_amount:300
+2018-09-28 05:36:00,734 - __main__ - INFO - the platform: iOS, the country: KR
+2018-09-28 05:38:07,099 - __main__ - INFO - create amount is 300
+2018-09-28 05:38:07,104 - __main__ - INFO - delt_name:bbt4_ca_s1_android_tz_r12, create_amount:300
+2018-09-28 05:38:09,216 - __main__ - INFO - the platform: Android, the country: CA
+2018-09-28 05:40:09,874 - __main__ - INFO - create amount is 300
+2018-09-28 05:40:09,877 - __main__ - INFO - delt_name:cet2_hk_s2_android_tz_a00, create_amount:300
+2018-09-28 05:40:12,437 - __main__ - INFO - the platform: Android, the country: HK
+2018-09-28 05:40:22,398 - __main__ - INFO - delt_name:bet3_kw_s4_ios_tz_r04, create_amount:300
+2018-09-28 05:40:22,675 - __main__ - INFO - the platform: iOS, the country: KW
+2018-09-28 05:42:16,543 - __main__ - INFO - create amount is 300
+2018-09-28 05:42:16,546 - __main__ - INFO - delt_name:bet3_au_s2_ios_tz_a02, create_amount:300
+2018-09-28 05:42:19,206 - __main__ - INFO - the platform: iOS, the country: AU
+2018-09-28 05:44:21,371 - __main__ - INFO - create amount is 300
+2018-09-28 05:44:21,376 - __main__ - INFO - delt_name:bbt3_kw_s4_android_tz_r04, create_amount:300
+2018-09-28 05:44:23,624 - __main__ - INFO - the platform: Android, the country: KW
+2018-09-28 05:46:13,397 - __main__ - INFO - create amount is 300
+2018-09-28 05:46:13,400 - __main__ - INFO - delt_name:bbt4_kr_s1_ios_tz_a00, create_amount:300
+2018-09-28 05:46:15,854 - __main__ - INFO - the platform: iOS, the country: KR
+2018-09-28 05:48:23,548 - __main__ - INFO - create amount is 300
+2018-09-28 05:48:23,553 - __main__ - INFO - delt_name:cet2_gb_s1_android_tz_r06, create_amount:300
+2018-09-28 05:48:26,107 - __main__ - INFO - the platform: Android, the country: GB
+2018-09-28 05:50:44,451 - __main__ - INFO - create amount is 300
+2018-09-28 05:50:44,456 - __main__ - INFO - delt_name:bet3_bh_s4_ios_tz_r04, create_amount:300
+2018-09-28 05:50:46,807 - __main__ - INFO - the platform: iOS, the country: BH
+2018-09-28 05:52:41,596 - __main__ - INFO - create amount is 300
+2018-09-28 05:52:41,598 - __main__ - INFO - delt_name:bet3_bh_s4_android_tz_r04, create_amount:300
+2018-09-28 05:52:44,261 - __main__ - INFO - the platform: Android, the country: BH
+2018-09-28 05:54:40,284 - __main__ - INFO - create amount is 300
+2018-09-28 05:54:40,288 - __main__ - INFO - delt_name:bbt3_au_s2_android_tz_a02, create_amount:300
+2018-09-28 05:54:42,533 - __main__ - INFO - the platform: Android, the country: AU
+2018-09-28 05:56:51,972 - __main__ - INFO - create amount is 300
+2018-09-28 05:56:51,977 - __main__ - INFO - delt_name:bbt4_bh_s4_android_tz_r04, create_amount:300
+2018-09-28 05:56:54,119 - __main__ - INFO - the platform: Android, the country: BH
+2018-09-28 05:58:41,432 - __main__ - INFO - create amount is 300
+2018-09-28 05:58:41,436 - __main__ - INFO - delt_name:bbt4_us_s2_android_tz_r12, create_amount:300
+2018-09-28 05:58:43,788 - __main__ - INFO - the platform: Android, the country: US
+2018-09-28 06:01:08,598 - __main__ - INFO - create amount is 300
+2018-09-28 06:01:08,606 - __main__ - INFO - delt_name:bbt3_us_s2_android_tz_r12, create_amount:300
+2018-09-28 06:01:11,141 - __main__ - INFO - the platform: Android, the country: US
+2018-09-28 06:03:29,832 - __main__ - INFO - create amount is 300
+2018-09-28 09:21:05,253 - __main__ - INFO - delt_name:bet3_hk_s2_ios_tz_a00, create_amount:300
+2018-09-28 09:21:05,559 - __main__ - INFO - the platform: iOS, the country: HK
+2018-09-28 09:21:15,543 - __main__ - INFO - delt_name:cet1_hk_s2_ios_tz_a00, create_amount:300
+2018-09-28 09:21:15,801 - __main__ - INFO - the platform: iOS, the country: HK
+2018-09-28 09:21:18,576 - __main__ - INFO - delt_name:bbt4_hk_s2_android_tz_a00, create_amount:300
+2018-09-28 09:21:18,786 - __main__ - INFO - the platform: Android, the country: HK
+2018-09-28 09:21:20,365 - __main__ - INFO - delt_name:bbt2_hk_s2_android_tz_a00, create_amount:300
+2018-09-28 09:21:20,615 - __main__ - INFO - the platform: Android, the country: HK
+2018-09-28 09:21:21,944 - __main__ - INFO - delt_name:cet2_hk_s2_android_tz_a00, create_amount:300
+2018-09-28 09:21:22,152 - __main__ - INFO - the platform: Android, the country: HK
+2018-09-28 09:21:23,183 - __main__ - INFO - delt_name:bet3_hk_s2_android_tz_a00, create_amount:300
+2018-09-28 09:21:23,474 - __main__ - INFO - the platform: Android, the country: HK
+2018-09-28 09:21:24,506 - __main__ - INFO - delt_name:bbt3_hk_s2_android_tz_a00, create_amount:300
+2018-09-28 09:21:24,809 - __main__ - INFO - the platform: Android, the country: HK
+2018-09-28 09:21:25,938 - __main__ - INFO - delt_name:cet2_hk_s2_ios_tz_a00, create_amount:300
+2018-09-28 09:21:26,243 - __main__ - INFO - the platform: iOS, the country: HK
+2018-09-28 09:21:27,372 - __main__ - INFO - delt_name:bbt4_hk_s2_ios_tz_a00, create_amount:300
+2018-09-28 09:21:27,582 - __main__ - INFO - the platform: iOS, the country: HK
+2018-09-28 09:21:28,804 - __main__ - INFO - delt_name:bbt3_hk_s2_ios_tz_a00, create_amount:300
+2018-09-28 09:21:29,117 - __main__ - INFO - the platform: iOS, the country: HK
+2018-09-28 09:21:29,934 - __main__ - INFO - delt_name:bbt2_hk_s2_ios_tz_a00, create_amount:300
+2018-09-28 09:21:30,238 - __main__ - INFO - the platform: iOS, the country: HK
+2018-09-28 09:21:30,959 - __main__ - INFO - delt_name:cet1_hk_s2_android_tz_a00, create_amount:300
+2018-09-28 09:21:31,262 - __main__ - INFO - the platform: Android, the country: HK
+2018-09-28 09:21:57,580 - __main__ - INFO - delt_name:cet2_hk_s2_android_tz_a00, create_amount:300
+2018-09-28 09:21:57,887 - __main__ - INFO - the platform: Android, the country: HK
+2018-09-28 09:26:32,328 - __main__ - INFO - delt_name:bbt4_hk_s2_ios_tz_a00, create_amount:300
+2018-09-28 09:26:32,635 - __main__ - INFO - the platform: iOS, the country: HK
+2018-09-28 09:28:31,105 - __main__ - INFO - create amount is 300
+2018-09-28 09:28:31,108 - __main__ - INFO - delt_name:bbt2_hk_s2_ios_tz_a00, create_amount:300
+2018-09-28 09:28:33,256 - __main__ - INFO - the platform: iOS, the country: HK
+2018-09-28 09:30:20,058 - __main__ - INFO - create amount is 300
+2018-09-28 09:30:20,059 - __main__ - INFO - delt_name:bbt3_hk_s2_ios_tz_a00, create_amount:300
+2018-09-28 09:30:22,514 - __main__ - INFO - the platform: iOS, the country: HK
+2018-09-28 09:32:13,519 - __main__ - INFO - create amount is 300
+2018-09-28 09:32:13,520 - __main__ - INFO - delt_name:bbt2_hk_s2_android_tz_a00, create_amount:300
+2018-09-28 09:32:15,690 - __main__ - INFO - the platform: Android, the country: HK
+2018-09-28 09:34:06,237 - __main__ - INFO - create amount is 300
+2018-09-28 09:34:06,238 - __main__ - INFO - delt_name:cet1_hk_s2_android_tz_a00, create_amount:300
+2018-09-28 09:34:08,408 - __main__ - INFO - the platform: Android, the country: HK
+2018-09-28 09:35:51,624 - __main__ - INFO - create amount is 300
+2018-09-28 09:35:51,626 - __main__ - INFO - delt_name:bbt4_hk_s2_android_tz_a00, create_amount:300
+2018-09-28 09:35:53,876 - __main__ - INFO - the platform: Android, the country: HK
+2018-09-28 09:37:49,387 - __main__ - INFO - create amount is 300
+2018-09-28 09:37:49,389 - __main__ - INFO - delt_name:bet3_hk_s2_android_tz_a00, create_amount:300
+2018-09-28 09:37:51,660 - __main__ - INFO - the platform: Android, the country: HK
+2018-09-28 09:39:39,875 - __main__ - INFO - create amount is 300
+2018-09-28 09:39:39,877 - __main__ - INFO - delt_name:bet3_hk_s2_ios_tz_a00, create_amount:300
+2018-09-28 09:39:41,643 - __main__ - INFO - the platform: iOS, the country: HK
+2018-09-28 09:41:30,347 - __main__ - INFO - create amount is 300
+2018-09-28 09:41:30,348 - __main__ - INFO - delt_name:cet2_hk_s2_ios_tz_a00, create_amount:300
+2018-09-28 09:41:33,767 - __main__ - INFO - the platform: iOS, the country: HK
+2018-09-28 09:43:20,938 - __main__ - INFO - create amount is 300
+2018-09-28 09:43:20,939 - __main__ - INFO - delt_name:bbt3_hk_s2_android_tz_a00, create_amount:300
+2018-09-28 09:43:23,415 - __main__ - INFO - the platform: Android, the country: HK
+2018-09-28 09:45:10,012 - __main__ - INFO - create amount is 300
+2018-09-28 09:45:10,013 - __main__ - INFO - delt_name:cet1_hk_s2_ios_tz_a00, create_amount:300
+2018-09-28 09:45:12,886 - __main__ - INFO - the platform: iOS, the country: HK
+2018-09-28 09:47:06,955 - __main__ - INFO - create amount is 300
+2018-09-28 09:47:06,956 - __main__ - INFO - delt_name:cet2_hk_s2_android_tz_a00, create_amount:300
+2018-09-28 09:47:09,514 - __main__ - INFO - the platform: Android, the country: HK
+2018-09-28 09:48:57,443 - __main__ - INFO - create amount is 300

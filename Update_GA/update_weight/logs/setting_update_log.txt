@@ -1,0 +1,152 @@
+2018-09-19 13:51:40,838 - weight_setting - INFO - start date:2018-08-18
+2018-09-19 13:51:40,838 - weight_setting - INFO - recent date: 2018-09-17 
+2018-09-19 13:51:41,091 - weight_setting - INFO - the size of report:17548
+2018-09-19 13:51:43,242 - weight_setting - INFO - update interests
+2018-09-19 13:51:44,214 - weight_setting - INFO - the size of updating interest:349
+2018-09-19 13:55:10,998 - weight_setting - INFO - update coordinate
+2018-09-19 13:55:11,603 - weight_setting - INFO - the size of updating coordinate:43
+2018-09-19 13:55:35,335 - weight_setting - INFO - it has been updating! it cost 238.753267 seconds
+2018-09-25 17:19:37,436 - __main__ - INFO - start date:2018-08-18
+2018-09-25 17:19:37,437 - __main__ - INFO - recent date: 2018-09-17 
+2018-09-25 17:19:37,670 - __main__ - INFO - the size of report:17548
+2018-09-25 17:19:38,440 - __main__ - INFO - update behavior
+2018-09-25 17:20:19,509 - __main__ - INFO - start date:2018-08-18
+2018-09-25 17:20:19,510 - __main__ - INFO - recent date: 2018-09-17 
+2018-09-25 17:20:19,815 - __main__ - INFO - the size of report:17548
+2018-09-25 17:20:20,711 - __main__ - INFO - update behavior
+2018-09-25 17:21:05,079 - __main__ - INFO - start date:2018-08-18
+2018-09-25 17:21:05,080 - __main__ - INFO - recent date: 2018-09-17 
+2018-09-25 17:21:05,331 - __main__ - INFO - the size of report:17548
+2018-09-25 17:21:06,205 - __main__ - INFO - update behavior
+2018-09-25 17:21:27,040 - __main__ - INFO - start date:2018-08-18
+2018-09-25 17:21:27,041 - __main__ - INFO - recent date: 2018-09-17 
+2018-09-25 17:21:27,301 - __main__ - INFO - the size of report:17548
+2018-09-25 17:21:28,527 - __main__ - INFO - update behavior
+2018-09-25 17:22:22,702 - __main__ - INFO - start date:2018-08-18
+2018-09-25 17:22:22,703 - __main__ - INFO - recent date: 2018-09-17 
+2018-09-25 17:22:23,004 - __main__ - INFO - the size of report:17548
+2018-09-25 17:22:23,825 - __main__ - INFO - update behavior
+2018-09-25 17:26:55,494 - __main__ - INFO - start date:2018-08-18
+2018-09-25 17:26:55,494 - __main__ - INFO - recent date: 2018-09-17 
+2018-09-25 17:26:55,799 - __main__ - INFO - the size of report:17548
+2018-09-25 17:26:57,137 - __main__ - INFO - update behavior
+2018-09-25 17:27:21,095 - __main__ - INFO - start date:2018-06-09
+2018-09-25 17:27:21,095 - __main__ - INFO - recent date: 2018-09-17 
+2018-09-25 17:27:21,399 - __main__ - INFO - the size of report:57489
+2018-09-25 17:27:23,053 - __main__ - INFO - update behavior
+2018-09-25 17:28:18,642 - __main__ - INFO - start date:2018-06-09
+2018-09-25 17:28:18,642 - __main__ - INFO - recent date: 2018-09-17 
+2018-09-25 17:28:18,948 - __main__ - INFO - the size of report:57489
+2018-09-25 17:28:20,427 - __main__ - INFO - update behavior
+2018-09-25 17:29:16,089 - __main__ - INFO - start date:2018-06-09
+2018-09-25 17:29:16,090 - __main__ - INFO - recent date: 2018-09-17 
+2018-09-25 17:29:16,325 - __main__ - INFO - the size of report:57489
+2018-09-25 17:29:19,377 - __main__ - INFO - update behavior
+2018-09-25 17:29:19,845 - __main__ - INFO - the size of updating behavior:232
+2018-09-25 17:29:19,894 - __main__ - INFO - it has been updating! it cost 7.978654 seconds
+2018-09-25 17:29:23,632 - __main__ - INFO - start date:2018-06-09
+2018-09-25 17:29:23,633 - __main__ - INFO - recent date: 2018-09-17 
+2018-09-25 17:29:23,869 - __main__ - INFO - the size of report:57489
+2018-09-25 17:29:26,129 - __main__ - INFO - update behavior
+2018-09-25 17:29:26,441 - __main__ - INFO - the size of updating behavior:232
+2018-09-25 17:29:26,481 - __main__ - INFO - it has been updating! it cost 6.586009 seconds
+2018-09-25 17:29:30,732 - __main__ - INFO - start date:2018-06-09
+2018-09-25 17:29:30,732 - __main__ - INFO - recent date: 2018-09-17 
+2018-09-25 17:29:31,037 - __main__ - INFO - the size of report:57489
+2018-09-25 17:29:33,405 - __main__ - INFO - update behavior
+2018-09-25 17:29:33,711 - __main__ - INFO - the size of updating behavior:232
+2018-09-25 17:29:33,753 - __main__ - INFO - it has been updating! it cost 7.271841 seconds
+2018-09-25 17:29:38,309 - __main__ - INFO - start date:2018-06-09
+2018-09-25 17:29:38,309 - __main__ - INFO - recent date: 2018-09-17 
+2018-09-25 17:29:38,614 - __main__ - INFO - the size of report:57489
+2018-09-25 17:29:40,871 - __main__ - INFO - update behavior
+2018-09-25 17:29:41,187 - __main__ - INFO - the size of updating behavior:232
+2018-09-25 17:29:41,241 - __main__ - INFO - it has been updating! it cost 7.488015 seconds
+2018-09-25 17:29:45,831 - __main__ - INFO - start date:2018-06-09
+2018-09-25 17:29:45,831 - __main__ - INFO - recent date: 2018-09-17 
+2018-09-25 17:29:46,067 - __main__ - INFO - the size of report:57489
+2018-09-25 17:29:47,885 - __main__ - INFO - update behavior
+2018-09-25 17:29:48,628 - __main__ - INFO - the size of updating behavior:232
+2018-09-25 17:29:48,673 - __main__ - INFO - it has been updating! it cost 7.430743 seconds
+2018-09-25 17:29:52,438 - __main__ - INFO - start date:2018-06-09
+2018-09-25 17:29:52,439 - __main__ - INFO - recent date: 2018-09-17 
+2018-09-25 17:29:52,747 - __main__ - INFO - the size of report:57489
+2018-09-25 17:29:54,909 - __main__ - INFO - update behavior
+2018-09-25 17:29:55,215 - __main__ - INFO - the size of updating behavior:232
+2018-09-25 17:29:55,260 - __main__ - INFO - it has been updating! it cost 6.586919 seconds
+2018-09-25 17:29:59,200 - __main__ - INFO - start date:2018-06-09
+2018-09-25 17:29:59,200 - __main__ - INFO - recent date: 2018-09-17 
+2018-09-25 17:29:59,504 - __main__ - INFO - the size of report:57489
+2018-09-25 17:30:01,774 - __main__ - INFO - update behavior
+2018-09-25 17:30:02,072 - __main__ - INFO - the size of updating behavior:232
+2018-09-25 17:30:02,119 - __main__ - INFO - it has been updating! it cost 6.858207 seconds
+2018-09-25 17:30:05,854 - __main__ - INFO - start date:2018-06-09
+2018-09-25 17:30:05,855 - __main__ - INFO - recent date: 2018-09-17 
+2018-09-25 17:30:06,160 - __main__ - INFO - the size of report:57489
+2018-09-25 17:30:08,518 - __main__ - INFO - update behavior
+2018-09-25 17:30:08,753 - __main__ - INFO - the size of updating behavior:232
+2018-09-25 17:30:08,794 - __main__ - INFO - it has been updating! it cost 6.674506 seconds
+2018-09-25 17:31:14,343 - __main__ - INFO - start date:2018-06-09
+2018-09-25 17:31:14,343 - __main__ - INFO - recent date: 2018-09-17 
+2018-09-25 17:31:14,577 - __main__ - INFO - the size of report:57489
+2018-09-25 17:31:16,925 - __main__ - INFO - update behavior
+2018-09-25 17:31:17,342 - __main__ - INFO - the size of updating behavior:232
+2018-09-25 20:02:16,414 - __main__ - INFO - start date:2018-06-09
+2018-09-25 20:02:16,414 - __main__ - INFO - recent date: 2018-09-17 
+2018-09-25 20:02:16,700 - __main__ - INFO - the size of report:57489
+2018-09-25 20:02:18,764 - __main__ - INFO - update behavior
+2018-09-25 20:02:19,168 - __main__ - INFO - the size of updating behavior:232
+2018-09-25 20:02:19,213 - __main__ - INFO - it has been updating! it cost 6.574431 seconds
+2018-09-25 20:04:32,181 - __main__ - INFO - start date:2017-09-17
+2018-09-25 20:04:32,181 - __main__ - INFO - recent date: 2018-09-17 
+2018-09-25 20:04:32,474 - __main__ - INFO - the size of report:57489
+2018-09-25 20:04:35,456 - __main__ - INFO - update behavior
+2018-09-25 20:04:35,976 - __main__ - INFO - the size of updating behavior:232
+2018-09-25 20:12:55,067 - __main__ - INFO - start date:2017-09-17
+2018-09-25 20:12:55,067 - __main__ - INFO - recent date: 2018-09-17 
+2018-09-25 20:12:55,371 - __main__ - INFO - the size of report:57489
+2018-09-25 20:27:07,241 - __main__ - INFO - start date:2017-09-17
+2018-09-25 20:27:07,242 - __main__ - INFO - recent date: 2018-09-17 
+2018-09-25 20:27:07,478 - __main__ - INFO - the size of report:57489
+2018-09-25 20:27:09,517 - __main__ - INFO - update creative
+2018-09-25 20:28:06,533 - __main__ - INFO - start date:2017-09-17
+2018-09-25 20:28:06,534 - __main__ - INFO - recent date: 2018-09-17 
+2018-09-25 20:28:06,771 - __main__ - INFO - the size of report:57489
+2018-09-25 20:29:42,586 - __main__ - INFO - start date:2017-09-17
+2018-09-25 20:29:42,587 - __main__ - INFO - recent date: 2018-09-17 
+2018-09-25 20:29:42,820 - __main__ - INFO - the size of report:57489
+2018-09-25 20:29:57,535 - __main__ - INFO - start date:2017-09-17
+2018-09-25 20:29:57,535 - __main__ - INFO - recent date: 2018-09-17 
+2018-09-25 20:29:57,843 - __main__ - INFO - the size of report:57489
+2018-09-25 20:30:20,352 - __main__ - INFO - start date:2017-09-17
+2018-09-25 20:30:20,352 - __main__ - INFO - recent date: 2018-09-17 
+2018-09-25 20:30:20,588 - __main__ - INFO - the size of report:57489
+2018-09-25 20:30:22,470 - __main__ - INFO - update creative
+2018-09-25 20:31:34,603 - __main__ - INFO - start date:2017-09-17
+2018-09-25 20:31:34,603 - __main__ - INFO - recent date: 2018-09-17 
+2018-09-25 20:31:34,873 - __main__ - INFO - the size of report:57489
+2018-09-25 20:31:37,238 - __main__ - INFO - update creative
+2018-09-25 20:32:31,299 - __main__ - INFO - start date:2017-09-17
+2018-09-25 20:32:31,299 - __main__ - INFO - recent date: 2018-09-17 
+2018-09-25 20:32:31,546 - __main__ - INFO - the size of report:57489
+2018-09-25 20:32:33,431 - __main__ - INFO - update creative
+2018-09-25 20:32:33,805 - __main__ - INFO - the size of updating dw_dim_creative_text:0
+2018-09-25 20:32:33,805 - __main__ - INFO - it has been updating! it cost 5.755143 seconds
+2018-09-25 20:33:01,944 - __main__ - INFO - update behavior
+2018-09-25 20:33:02,988 - __main__ - INFO - the size of updating behavior:271
+2018-09-25 20:33:48,349 - __main__ - INFO - start date:2017-09-17
+2018-09-25 20:33:48,349 - __main__ - INFO - recent date: 2018-09-17 
+2018-09-25 20:33:48,584 - __main__ - INFO - the size of report:57489
+2018-09-25 20:33:50,807 - __main__ - INFO - update creative
+2018-09-25 20:33:51,219 - __main__ - INFO - the size of updating dw_dim_creative_text:0
+2018-09-25 20:33:51,219 - __main__ - INFO - it has been updating! it cost 6.667743 seconds
+2018-09-25 20:35:12,726 - __main__ - INFO - start date:2017-09-17
+2018-09-25 20:35:12,726 - __main__ - INFO - recent date: 2018-09-17 
+2018-09-25 20:35:13,030 - __main__ - INFO - the size of report:57489
+2018-09-25 20:35:36,789 - __main__ - INFO - it has been updating! it cost 1365.917546 seconds
+2018-09-25 20:41:24,609 - __main__ - INFO - start date:2017-09-17
+2018-09-25 20:41:24,609 - __main__ - INFO - recent date: 2018-09-17 
+2018-09-25 20:41:24,845 - __main__ - INFO - the size of report:57489
+2018-09-25 21:10:31,734 - __main__ - INFO - update creative
+2018-09-25 21:10:32,111 - __main__ - INFO - the size of updating dw_dim_creative_text:11
+2018-09-25 21:10:38,260 - __main__ - INFO - it has been updating! it cost 1757.727263 seconds

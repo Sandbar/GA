@@ -1,0 +1,5 @@
+numpy
+pytz
+pymongo
+flask
+scipy
